@@ -1,5 +1,5 @@
 <?php
-
+error_reporting(0);
 function fetchChannels() {
     $playlistPath = "playlist.txt";
     $playlistData = file_get_contents($playlistPath);
