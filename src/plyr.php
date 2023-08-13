@@ -124,7 +124,7 @@ html {
 <body bgcolor = "#c41d66">
 <h4><p> Refresh if don't work.</p>
 <p>If still don't work then Find alternate channels, there are many channels with same name.</p>
-<p>Script for sell <a href = "https://t.me/TrueShikari">@TrueShikari</a></p>
+<p>Script for sell <a href = "https://t.me/ipl_stream_support_bot">Contact Me</a></p>
 </h4>
 
 
