@@ -121,14 +121,19 @@ html {
 </style>
 
 </head>
-<body>
-  
+<body bgcolor = "#c41d66">
+<h4><p> Refresh if don't work.</p>
+<p>If still don't work then Find alternate channels, there are many channels with same name.</p>
+<p>Script for sell <a href = "https://t.me/TrueShikari">@TrueShikari</a></p>
+</h4>
+
 
 
 <video hideControls="false" autoplay controls crossorigin poster="<?php echo $_REQUEST["p"]; ?>" playsinline>
 
     <source type="application/x-mpegURL" src="create.php?id=<?php echo $_REQUEST["id"]; ?>"></video>
 </body>
+<script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',5833871,document.body||document.documentElement)</script>
 <script>
   setTimeout(videovisible, 4000)
 function videovisible() {
