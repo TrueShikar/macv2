@@ -23,11 +23,7 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
 
 $response = curl_exec($ch);
 
-if (curl_errno($ch)) {
-    echo 'Error: ' . curl_error($ch);
-} else {
-    echo $response; // Output the response
-}
+
 
 curl_close($ch);
 
@@ -50,8 +46,8 @@ if ($response !== false) {
 }
 
 
-echo '#EXTM3U
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2810000,BANDWIDTH=3520000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE \n';
+echo nl2br('#EXTM3U
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2810000,BANDWIDTH=3520000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE \n');
 echo $cmd;
 
 ?>
