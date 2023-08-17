@@ -50,21 +50,8 @@ if ($response !== false) {
 }
 
 
-header("Location: ".$cmd);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+echo '#EXTM3U
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2810000,BANDWIDTH=3520000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE \n'
+echo $cmd
 
 ?>
