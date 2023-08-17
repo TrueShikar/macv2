@@ -1,0 +1,3119 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="77.jpg",UTSAV PLUS
+http://localhost/ch/104
+#EXTINF:-1 tvg-logo="78.jpg",UTSAV PL .
+http://localhost/ch/105
+#EXTINF:-1 tvg-logo="85.jpg",SONY TV HD UK
+http://localhost/ch/112
+#EXTINF:-1 tvg-logo="86.jpg",SONY TV UK
+http://localhost/ch/113
+#EXTINF:-1 tvg-logo="74.jpg",ZEE TV HD UK
+http://localhost/ch/101
+#EXTINF:-1 tvg-logo="",ZEE TV UK
+http://localhost/ch/23520
+#EXTINF:-1 tvg-logo="82.jpg",COLORS UK
+http://localhost/ch/109
+#EXTINF:-1 tvg-logo="90.jpg",SONY SAB UK
+http://localhost/ch/117
+#EXTINF:-1 tvg-logo="96.jpg",UTSAV BHARAT
+http://localhost/ch/125
+#EXTINF:-1 tvg-logo="139.jpg",COLORS CINEPLEX
+http://localhost/ch/168
+#EXTINF:-1 tvg-logo="140.jpg",COLORS RISHTEY
+http://localhost/ch/169
+#EXTINF:-1 tvg-logo="118.jpg",SONY MAX UK
+http://localhost/ch/147
+#EXTINF:-1 tvg-logo="7077.jpg",UTSAV GOLD
+http://localhost/ch/7488
+#EXTINF:-1 tvg-logo="123.jpg",ZEE CINEMA UK
+http://localhost/ch/152
+#EXTINF:-1 tvg-logo="112.jpg",B4U MOVIES UK
+http://localhost/ch/141
+#EXTINF:-1 tvg-logo="7098.png",SONY MAX 2 UK
+http://localhost/ch/7509
+#EXTINF:-1 tvg-logo="",AAJ TAK UK
+http://localhost/ch/19715
+#EXTINF:-1 tvg-logo="",NDTV UK
+http://localhost/ch/19747
+#EXTINF:-1 tvg-logo="",AASTHA UK
+http://localhost/ch/19723
+#EXTINF:-1 tvg-logo="",B4U MUSIC UK
+http://localhost/ch/19727
+#EXTINF:-1 tvg-logo="63.jpg",BRIT ASIA
+http://localhost/ch/89
+#EXTINF:-1 tvg-logo="",KANSHI TV UK
+http://localhost/ch/19739
+#EXTINF:-1 tvg-logo="",MATV NATIONAL UK
+http://localhost/ch/19743
+#EXTINF:-1 tvg-logo="42.jpg",GEO TV UK
+http://localhost/ch/68
+#EXTINF:-1 tvg-logo="19539.jpg",ARY DIGITAL UK
+http://localhost/ch/19711
+#EXTINF:-1 tvg-logo="14286.jpeg",HUM EUROPE.
+http://localhost/ch/14583
+#EXTINF:-1 tvg-logo="4.png",GEO NEWS UK
+http://localhost/ch/28
+#EXTINF:-1 tvg-logo="",DUNYA NEWS UK
+http://localhost/ch/19735
+#EXTINF:-1 tvg-logo="",HUM MASALA UK
+http://localhost/ch/13000
+#EXTINF:-1 tvg-logo="75.jpg",STAR PLUS
+http://localhost/ch/102
+#EXTINF:-1 tvg-logo="76.jpg",STAR PLUS.
+http://localhost/ch/103
+#EXTINF:-1 tvg-logo="83.jpg",SONY HD
+http://localhost/ch/110
+#EXTINF:-1 tvg-logo="84.jpg",SONY HD.
+http://localhost/ch/111
+#EXTINF:-1 tvg-logo="",SONY TV US
+http://localhost/ch/22202
+#EXTINF:-1 tvg-logo="",SONY TV CANADA
+http://localhost/ch/22187
+#EXTINF:-1 tvg-logo="79.jpg",COLORS HD
+http://localhost/ch/106
+#EXTINF:-1 tvg-logo="81.jpg",COLORS HD..
+http://localhost/ch/108
+#EXTINF:-1 tvg-logo="",AAPKA COLORS US
+http://localhost/ch/22189
+#EXTINF:-1 tvg-logo="",AAPKA COLORS CANADA
+http://localhost/ch/22190
+#EXTINF:-1 tvg-logo="72.jpg",ZEE TV
+http://localhost/ch/99
+#EXTINF:-1 tvg-logo="71.jpg",ZEE TV HD
+http://localhost/ch/98
+#EXTINF:-1 tvg-logo="",ZEE TV USA
+http://localhost/ch/22191
+#EXTINF:-1 tvg-logo="",ZEE TV CANADA
+http://localhost/ch/22192
+#EXTINF:-1 tvg-logo="",TV ASIA
+http://localhost/ch/22186
+#EXTINF:-1 tvg-logo="87.jpg",SONY SAB HD
+http://localhost/ch/114
+#EXTINF:-1 tvg-logo="88.jpg",SONY SAB
+http://localhost/ch/115
+#EXTINF:-1 tvg-logo="94.jpg",SAB TV USA
+http://localhost/ch/121
+#EXTINF:-1 tvg-logo="",SONY SAB CANADA
+http://localhost/ch/22188
+#EXTINF:-1 tvg-logo="92.jpg",STAR BHARAT
+http://localhost/ch/119
+#EXTINF:-1 tvg-logo="93.jpg",STAR BHARAT.
+http://localhost/ch/120
+#EXTINF:-1 tvg-logo="97.jpg",& TV HD.
+http://localhost/ch/126
+#EXTINF:-1 tvg-logo="98.jpg",& TV HD..
+http://localhost/ch/127
+#EXTINF:-1 tvg-logo="",AND TV USA
+http://localhost/ch/22195
+#EXTINF:-1 tvg-logo="",AND TV CANADA
+http://localhost/ch/22196
+#EXTINF:-1 tvg-logo="136.jpg",COLORS CINEPLEX HD
+http://localhost/ch/165
+#EXTINF:-1 tvg-logo="137.jpg",COLORS CINEPLEX BOLLYWOOD
+http://localhost/ch/166
+#EXTINF:-1 tvg-logo="138.jpg",COLORS RISHTEY.
+http://localhost/ch/167
+#EXTINF:-1 tvg-logo="",DANGAL TV
+http://localhost/ch/23440
+#EXTINF:-1 tvg-logo="305.jpg",DD NATIONAL HD
+http://localhost/ch/334
+#EXTINF:-1 tvg-logo="13108.jpg",DD NATIONAL.
+http://localhost/ch/13405
+#EXTINF:-1 tvg-logo="104.jpg",ZEE ANMOL
+http://localhost/ch/133
+#EXTINF:-1 tvg-logo="131.jpg",SONY WAH.
+http://localhost/ch/160
+#EXTINF:-1 tvg-logo="102.jpg",SONY PAL.
+http://localhost/ch/131
+#EXTINF:-1 tvg-logo="",THE Q
+http://localhost/ch/23576
+#EXTINF:-1 tvg-logo="142.jpg",9X JALWA
+http://localhost/ch/171
+#EXTINF:-1 tvg-logo="143.jpg",9XM
+http://localhost/ch/172
+#EXTINF:-1 tvg-logo="144.jpg",MASTII
+http://localhost/ch/173
+#EXTINF:-1 tvg-logo="146.jpg",MTV INDIA
+http://localhost/ch/175
+#EXTINF:-1 tvg-logo="147.jpg",MTV BEATS
+http://localhost/ch/176
+#EXTINF:-1 tvg-logo="",ZOOM
+http://localhost/ch/23575
+#EXTINF:-1 tvg-logo="14552.jpg",BIG MAGIC GANGA
+http://localhost/ch/14851
+#EXTINF:-1 tvg-logo="",ZING
+http://localhost/ch/22173
+#EXTINF:-1 tvg-logo="149.jpg",B4U MUSIC
+http://localhost/ch/178
+#EXTINF:-1 tvg-logo="",SHOW BOX
+http://localhost/ch/22133
+#EXTINF:-1 tvg-logo="",MUSIC ACTIVE MASALA
+http://localhost/ch/22203
+#EXTINF:-1 tvg-logo="",MUSIC ACTIVE HITS
+http://localhost/ch/22204
+#EXTINF:-1 tvg-logo="",COMEDY ACTIVE
+http://localhost/ch/22205
+#EXTINF:-1 tvg-logo="326.jpg",AXN HD,
+http://localhost/ch/355
+#EXTINF:-1 tvg-logo="6708.png",ZEE CAFE
+http://localhost/ch/7122
+#EXTINF:-1 tvg-logo="322.jpg",TLC
+http://localhost/ch/351
+#EXTINF:-1 tvg-logo="",TLC HINDI
+http://localhost/ch/22161
+#EXTINF:-1 tvg-logo="325.jpg",COLORS INFINITY
+http://localhost/ch/354
+#EXTINF:-1 tvg-logo="312.jpg",DISCOVERY.
+http://localhost/ch/341
+#EXTINF:-1 tvg-logo="",DISCOVERY HINDI.
+http://localhost/ch/22169
+#EXTINF:-1 tvg-logo="314.jpg",HISTORY HD.
+http://localhost/ch/343
+#EXTINF:-1 tvg-logo="",HISTORY HINDI
+http://localhost/ch/22164
+#EXTINF:-1 tvg-logo="316.jpg",SONY BBC EARTH
+http://localhost/ch/345
+#EXTINF:-1 tvg-logo="",BBC EARTH HINDI
+http://localhost/ch/22165
+#EXTINF:-1 tvg-logo="",NATIONAL GEOGRAPHIC HD
+http://localhost/ch/339
+#EXTINF:-1 tvg-logo="311.jpg",NATGEO HINDI.
+http://localhost/ch/340
+#EXTINF:-1 tvg-logo="",NATGEO WILD .
+http://localhost/ch/22168
+#EXTINF:-1 tvg-logo="",NATGEO WILD HINDI
+http://localhost/ch/22167
+#EXTINF:-1 tvg-logo="315.jpg",ANIMAL PLANET.
+http://localhost/ch/344
+#EXTINF:-1 tvg-logo="",ANIMAL PLANET HINDI
+http://localhost/ch/22166
+#EXTINF:-1 tvg-logo="",FOX LIFE HINDI
+http://localhost/ch/22163
+#EXTINF:-1 tvg-logo="",EPIC HD
+http://localhost/ch/23573
+#EXTINF:-1 tvg-logo="317.jpg",TRAVEL XP
+http://localhost/ch/346
+#EXTINF:-1 tvg-logo="",FOOD FOOD .
+http://localhost/ch/22171
+#EXTINF:-1 tvg-logo="",SATSANG .
+http://localhost/ch/22176
+#EXTINF:-1 tvg-logo="",BHAKTI TV
+http://localhost/ch/22177
+#EXTINF:-1 tvg-logo="",SANSKAAR TV
+http://localhost/ch/22178
+#EXTINF:-1 tvg-logo="15722.png",FOX SPORTS 501
+http://localhost/ch/18285
+#EXTINF:-1 tvg-logo="15314.png",FOX 501
+http://localhost/ch/15521
+#EXTINF:-1 tvg-logo="6387.png",SKY SPORTS CRICKET
+http://localhost/ch/6787
+#EXTINF:-1 tvg-logo="5467.png",SKY SPORTS CRICKET HD.
+http://localhost/ch/5770
+#EXTINF:-1 tvg-logo="6388.png",SKY SPORTS MAIN EVENT.
+http://localhost/ch/6790
+#EXTINF:-1 tvg-logo="6386.png",SKY SPORTS MAIN EVENT
+http://localhost/ch/6786
+#EXTINF:-1 tvg-logo="",BT SPORTS 1.
+http://localhost/ch/23812
+#EXTINF:-1 tvg-logo="",BT SPORTS 2.
+http://localhost/ch/23820
+#EXTINF:-1 tvg-logo="",BT SPORTS 3.
+http://localhost/ch/23821
+#EXTINF:-1 tvg-logo="18288.png",ASTRO CRICKET
+http://localhost/ch/18458
+#EXTINF:-1 tvg-logo="",SUPER SPORT CRICKET
+http://localhost/ch/22144
+#EXTINF:-1 tvg-logo="",BEIN SPORTS CRICKET
+http://localhost/ch/23568
+#EXTINF:-1 tvg-logo="",WILLOW CRICKET
+http://localhost/ch/22154
+#EXTINF:-1 tvg-logo="",WILLOW EXTRA HD
+http://localhost/ch/22153
+#EXTINF:-1 tvg-logo="",FLOW SPORTS
+http://localhost/ch/23557
+#EXTINF:-1 tvg-logo="",STAR SPORTS 1.
+http://localhost/ch/18295
+#EXTINF:-1 tvg-logo="",STAR SPORTS 1 HD
+http://localhost/ch/22149
+#EXTINF:-1 tvg-logo="",STAR SPORTS 2.
+http://localhost/ch/7455
+#EXTINF:-1 tvg-logo="",STAR SPORTS 2
+http://localhost/ch/7458
+#EXTINF:-1 tvg-logo="",STAR SPORTS HINDI
+http://localhost/ch/22147
+#EXTINF:-1 tvg-logo="",STAR SPORTS HINDI .
+http://localhost/ch/22148
+#EXTINF:-1 tvg-logo="",SONY SPORTS 5
+http://localhost/ch/22160
+#EXTINF:-1 tvg-logo="",SONY SPORTS 5.
+http://localhost/ch/22159
+#EXTINF:-1 tvg-logo="",SONY SPORTS 1
+http://localhost/ch/23816
+#EXTINF:-1 tvg-logo="",SONY SPORTS 2
+http://localhost/ch/23817
+#EXTINF:-1 tvg-logo="",SONY SPORTS 3
+http://localhost/ch/23818
+#EXTINF:-1 tvg-logo="18298.jpg",A SPORTS HD
+http://localhost/ch/18468
+#EXTINF:-1 tvg-logo="",A SPORTS UHD
+http://localhost/ch/20307
+#EXTINF:-1 tvg-logo="353.jpg",PTV SPORTS
+http://localhost/ch/18294
+#EXTINF:-1 tvg-logo="2530.jpg",PTV SPORTS..
+http://localhost/ch/2674
+#EXTINF:-1 tvg-logo="",GEO SUPER
+http://localhost/ch/22156
+#EXTINF:-1 tvg-logo="",GEO SUPER.
+http://localhost/ch/22157
+#EXTINF:-1 tvg-logo="",TEN SPORTS PK
+http://localhost/ch/22158
+#EXTINF:-1 tvg-logo="23665.jpg",DD SPORTS
+http://localhost/ch/23813
+#EXTINF:-1 tvg-logo="",STAR SPORTS 3
+http://localhost/ch/23931
+#EXTINF:-1 tvg-logo="",ESPN CRICKET (MATCH TIME)
+http://localhost/ch/23936
+#EXTINF:-1 tvg-logo="",GAZI TV (MATCH TIME)
+http://localhost/ch/23937
+#EXTINF:-1 tvg-logo="",SUPERSPORT GRANDSTAND
+http://localhost/ch/23950
+#EXTINF:-1 tvg-logo="14470.jpg",AAJ TAK.
+http://localhost/ch/14767
+#EXTINF:-1 tvg-logo="287.jpg",AAJ TAK
+http://localhost/ch/316
+#EXTINF:-1 tvg-logo="285.jpg",REPUBLIC BHARAT.
+http://localhost/ch/314
+#EXTINF:-1 tvg-logo="12454.jpg",REPUBLIC NEWS.
+http://localhost/ch/12751
+#EXTINF:-1 tvg-logo="",NEWS NATION.
+http://localhost/ch/22138
+#EXTINF:-1 tvg-logo="291.jpg",ZEE NEWS
+http://localhost/ch/320
+#EXTINF:-1 tvg-logo="292.jpg",ZEE NEWS.
+http://localhost/ch/321
+#EXTINF:-1 tvg-logo="308.jpg",GNT NEWS
+http://localhost/ch/337
+#EXTINF:-1 tvg-logo="",INDIA NEWS
+http://localhost/ch/329
+#EXTINF:-1 tvg-logo="",INDIA TV NEWS
+http://localhost/ch/324
+#EXTINF:-1 tvg-logo="",NEWS INDIA
+http://localhost/ch/22142
+#EXTINF:-1 tvg-logo="299.jpg",ABP NEWS.
+http://localhost/ch/328
+#EXTINF:-1 tvg-logo="294.jpg",ABP NEWS
+http://localhost/ch/323
+#EXTINF:-1 tvg-logo="",NEWS 11
+http://localhost/ch/22143
+#EXTINF:-1 tvg-logo="306.jpg",DD DEWS
+http://localhost/ch/335
+#EXTINF:-1 tvg-logo="296.jpg",NEWS 24
+http://localhost/ch/325
+#EXTINF:-1 tvg-logo="",MIRROR NOW
+http://localhost/ch/22139
+#EXTINF:-1 tvg-logo="289.jpg",INDIA TODAY
+http://localhost/ch/318
+#EXTINF:-1 tvg-logo="288.jpg",NDTV INDIA
+http://localhost/ch/317
+#EXTINF:-1 tvg-logo="",NEWS X
+http://localhost/ch/22140
+#EXTINF:-1 tvg-logo="18295.png",NDTV GOOD TIMES
+http://localhost/ch/18465
+#EXTINF:-1 tvg-logo="14503.jpg",ZEE BUSSINESS
+http://localhost/ch/14802
+#EXTINF:-1 tvg-logo="293.jpg",ZEE BUSSINESS.
+http://localhost/ch/322
+#EXTINF:-1 tvg-logo="286.jpg",TIMES NOW
+http://localhost/ch/315
+#EXTINF:-1 tvg-logo="",TIMES NOW NAYA BHARAT
+http://localhost/ch/23569
+#EXTINF:-1 tvg-logo="",TIMES NOW WORLD
+http://localhost/ch/15474
+#EXTINF:-1 tvg-logo="13065.png",ET NOW
+http://localhost/ch/13362
+#EXTINF:-1 tvg-logo="290.jpg",NDTV 24/7
+http://localhost/ch/319
+#EXTINF:-1 tvg-logo="13510.png",NDTV PROFIT
+http://localhost/ch/13807
+#EXTINF:-1 tvg-logo="297.jpg",CNN NEWS 18
+http://localhost/ch/326
+#EXTINF:-1 tvg-logo="303.jpg",CNBC TV 18
+http://localhost/ch/332
+#EXTINF:-1 tvg-logo="309.jpg",ZEE HINDUSTAAN
+http://localhost/ch/338
+#EXTINF:-1 tvg-logo="",DD INDIA HD
+http://localhost/ch/22172
+#EXTINF:-1 tvg-logo="",WION NEWS
+http://localhost/ch/23515
+#EXTINF:-1 tvg-logo="",CNBC AWAAZ
+http://localhost/ch/23516
+#EXTINF:-1 tvg-logo="23666.png",SUDARSHAN NEWS
+http://localhost/ch/23814
+#EXTINF:-1 tvg-logo="328.jpg",BBC ONE HD
+http://localhost/ch/5996
+#EXTINF:-1 tvg-logo="329.jpg",BBC TWO HD
+http://localhost/ch/358
+#EXTINF:-1 tvg-logo="",BBC THREE
+http://localhost/ch/19831
+#EXTINF:-1 tvg-logo="331.jpg",BBC FOUR HD
+http://localhost/ch/360
+#EXTINF:-1 tvg-logo="332.jpg",ITV 1 HD
+http://localhost/ch/18287
+#EXTINF:-1 tvg-logo="333.jpg",ITV 2 HD
+http://localhost/ch/362
+#EXTINF:-1 tvg-logo="334.jpg",ITV 3 HD
+http://localhost/ch/363
+#EXTINF:-1 tvg-logo="335.jpg",ITV 4 HD
+http://localhost/ch/23998
+#EXTINF:-1 tvg-logo="336.jpg",ITV BE HD
+http://localhost/ch/365
+#EXTINF:-1 tvg-logo="339.jpg",STV HD
+http://localhost/ch/368
+#EXTINF:-1 tvg-logo="",BBC YORKSHIRE
+http://localhost/ch/22114
+#EXTINF:-1 tvg-logo="",BBC WEST YORK
+http://localhost/ch/19731
+#EXTINF:-1 tvg-logo="18314.png",BBC ONE NORTH WEST
+http://localhost/ch/18484
+#EXTINF:-1 tvg-logo="18315.png",BBC ONE NORTH EAST AND CUMBRIA
+http://localhost/ch/18485
+#EXTINF:-1 tvg-logo="18316.jpg",BBC ONE WEST MIDLANDS
+http://localhost/ch/18486
+#EXTINF:-1 tvg-logo="18317.jpg",BBC NORTHERN IRELAND
+http://localhost/ch/18487
+#EXTINF:-1 tvg-logo="18318.png",BBC ONE SOUTH EAST
+http://localhost/ch/18488
+#EXTINF:-1 tvg-logo="18308.png",BBC ALBA
+http://localhost/ch/18478
+#EXTINF:-1 tvg-logo="337.jpg",RTE 1 HD
+http://localhost/ch/366
+#EXTINF:-1 tvg-logo="338.jpg",RTE 2 HD
+http://localhost/ch/367
+#EXTINF:-1 tvg-logo="",VIRGIN MEDIA 1 HD
+http://localhost/ch/18256
+#EXTINF:-1 tvg-logo="",VIRGIN MEDIA 2 HD
+http://localhost/ch/18257
+#EXTINF:-1 tvg-logo="",VIRGIN MEDIA 3 HD
+http://localhost/ch/18258
+#EXTINF:-1 tvg-logo="661.jpg",MTV UK
+http://localhost/ch/743
+#EXTINF:-1 tvg-logo="665.jpg",MTV HITS
+http://localhost/ch/747
+#EXTINF:-1 tvg-logo="663.jpg",MTV CLASSIC
+http://localhost/ch/942
+#EXTINF:-1 tvg-logo="662.jpg",UK MTV BASE
+http://localhost/ch/941
+#EXTINF:-1 tvg-logo="666.jpg",MTV MUSIC
+http://localhost/ch/748
+#EXTINF:-1 tvg-logo="18313.png",THE BOX
+http://localhost/ch/18483
+#EXTINF:-1 tvg-logo="18319.png",4 MUSIC
+http://localhost/ch/18489
+#EXTINF:-1 tvg-logo="18320.png",KERRANG
+http://localhost/ch/18490
+#EXTINF:-1 tvg-logo="341.jpg",BBC NEWS
+http://localhost/ch/18288
+#EXTINF:-1 tvg-logo="342.jpg",BBC NEWS HD
+http://localhost/ch/900
+#EXTINF:-1 tvg-logo="344.jpg",SKY NEWS
+http://localhost/ch/896
+#EXTINF:-1 tvg-logo="345.png",GB NEWS
+http://localhost/ch/897
+#EXTINF:-1 tvg-logo="347.jpg",CNN
+http://localhost/ch/901
+#EXTINF:-1 tvg-logo="",BLOOMBERG.
+http://localhost/ch/14823
+#EXTINF:-1 tvg-logo="",CNBC NEWS
+http://localhost/ch/11736
+#EXTINF:-1 tvg-logo="350.jpg",FRANCE 24
+http://localhost/ch/380
+#EXTINF:-1 tvg-logo="349.jpg",AL JAZEERA NEWS
+http://localhost/ch/379
+#EXTINF:-1 tvg-logo="346.jpg",RTE NEWS NOW
+http://localhost/ch/898
+#EXTINF:-1 tvg-logo="",EURO NEWS.
+http://localhost/ch/21697
+#EXTINF:-1 tvg-logo="18303.jpg",SKY MAX HD
+http://localhost/ch/18473
+#EXTINF:-1 tvg-logo="617.png",SKY REPLAY.
+http://localhost/ch/699
+#EXTINF:-1 tvg-logo="648.jpg",TLC UK
+http://localhost/ch/730
+#EXTINF:-1 tvg-logo="655.jpg",CHANNEL 4
+http://localhost/ch/737
+#EXTINF:-1 tvg-logo="630.jpg",4 SEVEN HD
+http://localhost/ch/712
+#EXTINF:-1 tvg-logo="656.jpg",CHANNEL 5 UK
+http://localhost/ch/738
+#EXTINF:-1 tvg-logo="620.jpg",GOLD
+http://localhost/ch/702
+#EXTINF:-1 tvg-logo="18290.jpg",Watch HD
+http://localhost/ch/18460
+#EXTINF:-1 tvg-logo="621.jpg",DAVE HD
+http://localhost/ch/703
+#EXTINF:-1 tvg-logo="626.jpg",ALIBI
+http://localhost/ch/708
+#EXTINF:-1 tvg-logo="627.jpg",E4
+http://localhost/ch/709
+#EXTINF:-1 tvg-logo="619.png",SKY ATLANTIC
+http://localhost/ch/701
+#EXTINF:-1 tvg-logo="618.png",SKY WITNESS.
+http://localhost/ch/700
+#EXTINF:-1 tvg-logo="",SKY SYFY
+http://localhost/ch/741
+#EXTINF:-1 tvg-logo="636.jpg",REALLY
+http://localhost/ch/718
+#EXTINF:-1 tvg-logo="631.jpg",UK QUEST
+http://localhost/ch/713
+#EXTINF:-1 tvg-logo="18305.jpg",QUEST RED
+http://localhost/ch/18475
+#EXTINF:-1 tvg-logo="639.jpg",DMAX
+http://localhost/ch/721
+#EXTINF:-1 tvg-logo="637.jpg",DRAMA
+http://localhost/ch/719
+#EXTINF:-1 tvg-logo="629.jpg",MORE4
+http://localhost/ch/711
+#EXTINF:-1 tvg-logo="18292.png",E! Entertainment HD
+http://localhost/ch/18462
+#EXTINF:-1 tvg-logo="18304.png",LONDON LIVE
+http://localhost/ch/18474
+#EXTINF:-1 tvg-logo="18311.png",FILM 4
+http://localhost/ch/18481
+#EXTINF:-1 tvg-logo="18306.png",YESTERDAY
+http://localhost/ch/18476
+#EXTINF:-1 tvg-logo="18291.png",S4C HD
+http://localhost/ch/18461
+#EXTINF:-1 tvg-logo="622.jpg",COMEDY CENTRAL HD
+http://localhost/ch/704
+#EXTINF:-1 tvg-logo="624.jpg",COMEDY EXTRA
+http://localhost/ch/706
+#EXTINF:-1 tvg-logo="18309.jpg",PBS AMERICA
+http://localhost/ch/18479
+#EXTINF:-1 tvg-logo="641.jpg",5 STAR
+http://localhost/ch/723
+#EXTINF:-1 tvg-logo="635.jpg",PICK
+http://localhost/ch/18492
+#EXTINF:-1 tvg-logo="6828.jpeg",TG4
+http://localhost/ch/7242
+#EXTINF:-1 tvg-logo="12700.png",CHALLENGE TV
+http://localhost/ch/12997
+#EXTINF:-1 tvg-logo="632.jpg",CBS JUSTICE
+http://localhost/ch/714
+#EXTINF:-1 tvg-logo="633.jpg",CBS DRAMA
+http://localhost/ch/715
+#EXTINF:-1 tvg-logo="634.jpg",CBS REALITY
+http://localhost/ch/716
+#EXTINF:-1 tvg-logo="625.jpg",SKY ARTS
+http://localhost/ch/707
+#EXTINF:-1 tvg-logo="647.jpg",TRAVEL XP.
+http://localhost/ch/729
+#EXTINF:-1 tvg-logo="644.jpg",FOODNETWORK
+http://localhost/ch/726
+#EXTINF:-1 tvg-logo="448.jpg",DISCOVERY
+http://localhost/ch/479
+#EXTINF:-1 tvg-logo="450.jpg",DISCOVERY TURBO
+http://localhost/ch/481
+#EXTINF:-1 tvg-logo="449.jpg",DISCOVERY SCIENCE HD.
+http://localhost/ch/480
+#EXTINF:-1 tvg-logo="446.jpg",DISCOVERY INVESTIGATION.
+http://localhost/ch/477
+#EXTINF:-1 tvg-logo="445.jpg",DISCOVERY HISTORY
+http://localhost/ch/476
+#EXTINF:-1 tvg-logo="454.jpg",NATIONAL GEOGRAPHIC.
+http://localhost/ch/485
+#EXTINF:-1 tvg-logo="455.jpg",NATGEO WILD HD.
+http://localhost/ch/486
+#EXTINF:-1 tvg-logo="451.jpg",HISTORY 1
+http://localhost/ch/482
+#EXTINF:-1 tvg-logo="452.jpg",HISTORY 2
+http://localhost/ch/483
+#EXTINF:-1 tvg-logo="18205.png",SKY CRIME
+http://localhost/ch/18381
+#EXTINF:-1 tvg-logo="",SKY DOCUMENTARIES
+http://localhost/ch/15920
+#EXTINF:-1 tvg-logo="453.jpg",CRIME INVESTIGATION
+http://localhost/ch/484
+#EXTINF:-1 tvg-logo="653.jpg",EDEN
+http://localhost/ch/735
+#EXTINF:-1 tvg-logo="457.jpg",HGTV / HOME
+http://localhost/ch/488
+#EXTINF:-1 tvg-logo="6674.png",ANIMAL PLANET..
+http://localhost/ch/7090
+#EXTINF:-1 tvg-logo="14526.jpg",THE EQUALIZER 1 & 2
+http://localhost/ch/14825
+#EXTINF:-1 tvg-logo="16210.jpg",TRANSFORMERS
+http://localhost/ch/16311
+#EXTINF:-1 tvg-logo="14506.jpg",DEAD POOL
+http://localhost/ch/14805
+#EXTINF:-1 tvg-logo="14507.jpg",GUARDIAN OF GALAXY
+http://localhost/ch/14806
+#EXTINF:-1 tvg-logo="14508.jpg",HULK
+http://localhost/ch/14807
+#EXTINF:-1 tvg-logo="14522.jpg",SAW MOVIE COLLECTION
+http://localhost/ch/14821
+#EXTINF:-1 tvg-logo="14509.jpg",IRON MAN
+http://localhost/ch/14808
+#EXTINF:-1 tvg-logo="14521.jpg",HARRY POTTER COLLECTION
+http://localhost/ch/14820
+#EXTINF:-1 tvg-logo="14505.jpg",CAPTAIN AMERICA
+http://localhost/ch/14804
+#EXTINF:-1 tvg-logo="14523.jpg",PIRATES OF CARIBBEAN COLLECTION
+http://localhost/ch/14822
+#EXTINF:-1 tvg-logo="14504.jpg",AVENGERS
+http://localhost/ch/14803
+#EXTINF:-1 tvg-logo="14510.jpg",MARVEL MIX
+http://localhost/ch/14809
+#EXTINF:-1 tvg-logo="14511.jpg",SPIDER MAN (Tom Holland)
+http://localhost/ch/14810
+#EXTINF:-1 tvg-logo="14512.jpg",SPIDER MAN (Tobey Maguire.)
+http://localhost/ch/14811
+#EXTINF:-1 tvg-logo="14527.jpg",JOHN WICK MOVIES
+http://localhost/ch/14826
+#EXTINF:-1 tvg-logo="14513.jpg",SPIDER MAN (Andrew Garfield)
+http://localhost/ch/14812
+#EXTINF:-1 tvg-logo="14514.jpg",THOR
+http://localhost/ch/14813
+#EXTINF:-1 tvg-logo="14515.jpg",X-MEN
+http://localhost/ch/14814
+#EXTINF:-1 tvg-logo="14516.jpg",ANTMAN
+http://localhost/ch/14815
+#EXTINF:-1 tvg-logo="14517.jpg",DC 5 MOVIES
+http://localhost/ch/14816
+#EXTINF:-1 tvg-logo="14520.jpg",LORD OF THE RINGS & THE HOBBITS
+http://localhost/ch/14819
+#EXTINF:-1 tvg-logo="14519.jpg",FAST & FURIO COLLECTION
+http://localhost/ch/14818
+#EXTINF:-1 tvg-logo="14528.jpg",DIE HARD MOVIES
+http://localhost/ch/14827
+#EXTINF:-1 tvg-logo="14529.jpg",UNDER WORLD MOVIES
+http://localhost/ch/14828
+#EXTINF:-1 tvg-logo="14535.jpg",RESIDENT EVIL COLLECTION
+http://localhost/ch/14834
+#EXTINF:-1 tvg-logo="",KINGDOM OF HEAVEN
+http://localhost/ch/15486
+#EXTINF:-1 tvg-logo="",SKY SPORTS MAIN EVENT HD .
+http://localhost/ch/23796
+#EXTINF:-1 tvg-logo="386.jpg",SKY SPORTS MAIN EVENT HD
+http://localhost/ch/417
+#EXTINF:-1 tvg-logo="390.jpg",SKY SPORTS PREMIER LEAGUE HD
+http://localhost/ch/2979
+#EXTINF:-1 tvg-logo="387.jpg",SKY SPORTS CRICKET HD
+http://localhost/ch/418
+#EXTINF:-1 tvg-logo="389.jpg",SKY SPORTS FOOTBALL HD
+http://localhost/ch/420
+#EXTINF:-1 tvg-logo="391.jpg",SKY SPORTS GOLF HD
+http://localhost/ch/422
+#EXTINF:-1 tvg-logo="392.jpg",SKY SPORTS F1 HD
+http://localhost/ch/423
+#EXTINF:-1 tvg-logo="388.jpg",SKY SPORTS ACTION HD
+http://localhost/ch/419
+#EXTINF:-1 tvg-logo="393.jpg",SKY SPORTS ARENA
+http://localhost/ch/424
+#EXTINF:-1 tvg-logo="15292.png",SKY SPORTS MIX HD
+http://localhost/ch/15499
+#EXTINF:-1 tvg-logo="385.jpg",SKY SPORTS NEWS HD
+http://localhost/ch/416
+#EXTINF:-1 tvg-logo="",SKY SPORTS BOX OFFICE
+http://localhost/ch/22206
+#EXTINF:-1 tvg-logo="",BOX OFFICE 2
+http://localhost/ch/22287
+#EXTINF:-1 tvg-logo="397.jpg",BT SPORTS 1 HD
+http://localhost/ch/428
+#EXTINF:-1 tvg-logo="398.jpg",BT SPORTS 2 HD
+http://localhost/ch/429
+#EXTINF:-1 tvg-logo="399.jpg",BT SPORTS 3 HD
+http://localhost/ch/430
+#EXTINF:-1 tvg-logo="405.jpg",BT SPORTS 4 HD
+http://localhost/ch/436
+#EXTINF:-1 tvg-logo="400.jpg",BT SPORTS 5.
+http://localhost/ch/431
+#EXTINF:-1 tvg-logo="401.jpg",BT SPORTS 6.
+http://localhost/ch/432
+#EXTINF:-1 tvg-logo="402.jpg",BT SPORTS 7
+http://localhost/ch/433
+#EXTINF:-1 tvg-logo="403.jpg",BT SPORTS 8
+http://localhost/ch/434
+#EXTINF:-1 tvg-logo="404.jpg",BT SPORTS 9
+http://localhost/ch/435
+#EXTINF:-1 tvg-logo="18312.png",BT SPORTS 10
+http://localhost/ch/18482
+#EXTINF:-1 tvg-logo="395.jpg",EUROSPORT 1 HD
+http://localhost/ch/426
+#EXTINF:-1 tvg-logo="396.jpg",EUROSPORT 2 HD
+http://localhost/ch/427
+#EXTINF:-1 tvg-logo="413.jpg",PREMIER SPORTS 1
+http://localhost/ch/444
+#EXTINF:-1 tvg-logo="414.jpg",PREMIER SPORTS 2
+http://localhost/ch/445
+#EXTINF:-1 tvg-logo="412.jpg",VIA PLAY XTRA
+http://localhost/ch/443
+#EXTINF:-1 tvg-logo="422.jpg",RACING UK
+http://localhost/ch/453
+#EXTINF:-1 tvg-logo="15669.png",SKY SPORTS RACING.
+http://localhost/ch/15876
+#EXTINF:-1 tvg-logo="420.jpg",WWE NETWORK
+http://localhost/ch/451
+#EXTINF:-1 tvg-logo="415.jpg",MUTV
+http://localhost/ch/446
+#EXTINF:-1 tvg-logo="417.jpg",LFCTV HD
+http://localhost/ch/448
+#EXTINF:-1 tvg-logo="",TSN 1 HD
+http://localhost/ch/16104
+#EXTINF:-1 tvg-logo="",TSN 2 HD
+http://localhost/ch/16105
+#EXTINF:-1 tvg-logo="",TSN 3 HD
+http://localhost/ch/16106
+#EXTINF:-1 tvg-logo="",TSN 4 HD
+http://localhost/ch/16107
+#EXTINF:-1 tvg-logo="",TSN 5 HD
+http://localhost/ch/16108
+#EXTINF:-1 tvg-logo="",SPORTSNET ONE HD
+http://localhost/ch/16132
+#EXTINF:-1 tvg-logo="",SPORTSNET EAST HD
+http://localhost/ch/16131
+#EXTINF:-1 tvg-logo="",SPORTSNET WEST HD
+http://localhost/ch/16135
+#EXTINF:-1 tvg-logo="",SPORTSNET 360 HD
+http://localhost/ch/16130
+#EXTINF:-1 tvg-logo="",SPORTSNET PACIFIC HD
+http://localhost/ch/16134
+#EXTINF:-1 tvg-logo="",SPORTSNET ONTARIO HD
+http://localhost/ch/16133
+#EXTINF:-1 tvg-logo="",SPORTSNET WORLD HD
+http://localhost/ch/16136
+#EXTINF:-1 tvg-logo="",NFL NETWORK CANADA
+http://localhost/ch/20143
+#EXTINF:-1 tvg-logo="",NBA TV CA
+http://localhost/ch/20147
+#EXTINF:-1 tvg-logo="14118.jpg",GOLF CHANNEL
+http://localhost/ch/14415
+#EXTINF:-1 tvg-logo="14159.jpg",NFL
+http://localhost/ch/14456
+#EXTINF:-1 tvg-logo="",MLB NETWORK CA
+http://localhost/ch/20151
+#EXTINF:-1 tvg-logo="14120.jpg",MLB NETWORK US
+http://localhost/ch/14417
+#EXTINF:-1 tvg-logo="",GOLF CHANNEL CA
+http://localhost/ch/20155
+#EXTINF:-1 tvg-logo="14158.png",NFL REDZONE.
+http://localhost/ch/14455
+#EXTINF:-1 tvg-logo="",SPORTSMAN CHANNEL
+http://localhost/ch/16137
+#EXTINF:-1 tvg-logo="14164.jpg",FOX SPORTS 1
+http://localhost/ch/14461
+#EXTINF:-1 tvg-logo="14165.jpg",FOX SPORTS 2
+http://localhost/ch/14462
+#EXTINF:-1 tvg-logo="14166.jpg",MOTORTREND
+http://localhost/ch/14463
+#EXTINF:-1 tvg-logo="14162.png",ESPN
+http://localhost/ch/14459
+#EXTINF:-1 tvg-logo="14161.png",ESPN 2
+http://localhost/ch/14458
+#EXTINF:-1 tvg-logo="14163.png",SEC
+http://localhost/ch/14460
+#EXTINF:-1 tvg-logo="14160.png",ESPN U
+http://localhost/ch/14457
+#EXTINF:-1 tvg-logo="",ESPN SPORTS NEWS
+http://localhost/ch/14523
+#EXTINF:-1 tvg-logo="14155.jpg",TENNIS CHANNEL
+http://localhost/ch/14452
+#EXTINF:-1 tvg-logo="14157.jpg",NBA TV US
+http://localhost/ch/14454
+#EXTINF:-1 tvg-logo="",NBC GOLF..
+http://localhost/ch/14522
+#EXTINF:-1 tvg-logo="",ASTRO SUPER SPORT 1
+http://localhost/ch/16126
+#EXTINF:-1 tvg-logo="",ASTRO SUPER SPORT 2
+http://localhost/ch/16127
+#EXTINF:-1 tvg-logo="",ASTRO SUPER SPORT 3
+http://localhost/ch/16128
+#EXTINF:-1 tvg-logo="",ASTRO SUPER SPORT 4
+http://localhost/ch/16129
+#EXTINF:-1 tvg-logo="",SUPERSPORTS LALIGA
+http://localhost/ch/16119
+#EXTINF:-1 tvg-logo="",SUPERSPORTS PREMIER LEAGUE
+http://localhost/ch/16118
+#EXTINF:-1 tvg-logo="",SUPERSPORTS GOLF
+http://localhost/ch/16109
+#EXTINF:-1 tvg-logo="",SUPERSPORTS TENNIS
+http://localhost/ch/16110
+#EXTINF:-1 tvg-logo="",SUPERSPORTS RUGBY
+http://localhost/ch/16114
+#EXTINF:-1 tvg-logo="",SUPERSPORTS ACTION
+http://localhost/ch/16115
+#EXTINF:-1 tvg-logo="",SUPERSPORTS MOTORSPORT
+http://localhost/ch/16111
+#EXTINF:-1 tvg-logo="",SUPERSPORTS FOOTBALL
+http://localhost/ch/16120
+#EXTINF:-1 tvg-logo="",SUPERSPORTS PSL
+http://localhost/ch/16117
+#EXTINF:-1 tvg-logo="",SUPERSPORTS GRANDSTAND
+http://localhost/ch/16116
+#EXTINF:-1 tvg-logo="",SUPERSPORTS BLITZ
+http://localhost/ch/16112
+#EXTINF:-1 tvg-logo="",SUPERSPORTS VARIETY 2
+http://localhost/ch/16122
+#EXTINF:-1 tvg-logo="",SUPERSPORTS VARIETY 1
+http://localhost/ch/16121
+#EXTINF:-1 tvg-logo="",SUPERSPORTS VARIETY 4
+http://localhost/ch/16124
+#EXTINF:-1 tvg-logo="",SUPERSPORTS VARIETY 3
+http://localhost/ch/16123
+#EXTINF:-1 tvg-logo="",NBC SPORTS BAY AREA
+http://localhost/ch/16138
+#EXTINF:-1 tvg-logo="",NBC SPORTS BOSTON
+http://localhost/ch/16139
+#EXTINF:-1 tvg-logo="",NBC SPORTS CALIFORNIA
+http://localhost/ch/16140
+#EXTINF:-1 tvg-logo="",NBC SPORTS CHICAGO PL
+http://localhost/ch/16141
+#EXTINF:-1 tvg-logo="",NBC SPORTS CHICAGO
+http://localhost/ch/16142
+#EXTINF:-1 tvg-logo="",NBC SPORTS NETWORK FHD 1080
+http://localhost/ch/16143
+#EXTINF:-1 tvg-logo="",NBC SPORTS NORTHWEST
+http://localhost/ch/16144
+#EXTINF:-1 tvg-logo="",NBC SPORTS PHILADELPHIA
+http://localhost/ch/16145
+#EXTINF:-1 tvg-logo="",NBC 5
+http://localhost/ch/16150
+#EXTINF:-1 tvg-logo="",NBC SPORTS PHILADELPHIA PL
+http://localhost/ch/16146
+#EXTINF:-1 tvg-logo="",NBC SPORTS WASHINGTON
+http://localhost/ch/16147
+#EXTINF:-1 tvg-logo="",NBC 10 EAST
+http://localhost/ch/16148
+#EXTINF:-1 tvg-logo="",NBC 4 NY
+http://localhost/ch/16149
+#EXTINF:-1 tvg-logo="",NBC SPORTS BAY AREA HD
+http://localhost/ch/16151
+#EXTINF:-1 tvg-logo="",NBC SPORTS BOSTON HD
+http://localhost/ch/16152
+#EXTINF:-1 tvg-logo="",NBC SPORTS CALIFORNIA HD
+http://localhost/ch/16153
+#EXTINF:-1 tvg-logo="",NBC SPORTS CHICAGO HD
+http://localhost/ch/16154
+#EXTINF:-1 tvg-logo="",NBC SPORTS NETWORK
+http://localhost/ch/16155
+#EXTINF:-1 tvg-logo="",NBC SPORTS NORTHWEST HD
+http://localhost/ch/16156
+#EXTINF:-1 tvg-logo="",NBC SPORTS PHILADELPHIA HD
+http://localhost/ch/16157
+#EXTINF:-1 tvg-logo="",NBA TV HD
+http://localhost/ch/16158
+#EXTINF:-1 tvg-logo="",BALLY SPORTS DETROIT
+http://localhost/ch/16159
+#EXTINF:-1 tvg-logo="",BALLY SPORTS FLORIDA
+http://localhost/ch/16160
+#EXTINF:-1 tvg-logo="",BALLY SPORTS MIDWEST
+http://localhost/ch/16161
+#EXTINF:-1 tvg-logo="",BALLY SPORTS NEW ORLEANS
+http://localhost/ch/16162
+#EXTINF:-1 tvg-logo="",BALLY SPORTS NORTH
+http://localhost/ch/16163
+#EXTINF:-1 tvg-logo="",BALLY SPORTS OHIO
+http://localhost/ch/16164
+#EXTINF:-1 tvg-logo="",BALLY SPORTS OKLAHOMA
+http://localhost/ch/16165
+#EXTINF:-1 tvg-logo="",BALLY SPORTS SAN DIEGO
+http://localhost/ch/16166
+#EXTINF:-1 tvg-logo="",BALLY SPORTS SOUTH
+http://localhost/ch/16167
+#EXTINF:-1 tvg-logo="",BALLY SPORTS SOUTHEAST
+http://localhost/ch/16168
+#EXTINF:-1 tvg-logo="",BALLY SPORTS SOUTHWEST
+http://localhost/ch/16169
+#EXTINF:-1 tvg-logo="",BALLY SPORTS SUN
+http://localhost/ch/16170
+#EXTINF:-1 tvg-logo="",BALLY SPORTS TENNESSEE
+http://localhost/ch/16171
+#EXTINF:-1 tvg-logo="",BALLY SPORTS WEST
+http://localhost/ch/16172
+#EXTINF:-1 tvg-logo="",BALLY SPORTS WISCONSIN
+http://localhost/ch/16175
+#EXTINF:-1 tvg-logo="",BALLY SPORTS ARIZONA
+http://localhost/ch/16173
+#EXTINF:-1 tvg-logo="",BALLY SPORTS CAROLINAS
+http://localhost/ch/16174
+#EXTINF:-1 tvg-logo="566.jpg",BEIN SPORTS 1.
+http://localhost/ch/594
+#EXTINF:-1 tvg-logo="568.jpg",BEIN SPORTS 2.
+http://localhost/ch/596
+#EXTINF:-1 tvg-logo="570.jpg",BEIN SPORTS 3.
+http://localhost/ch/18314
+#EXTINF:-1 tvg-logo="572.jpg",BEIN SPORTS 4.
+http://localhost/ch/18315
+#EXTINF:-1 tvg-logo="574.jpg",BEIN SPORTS 5.
+http://localhost/ch/18316
+#EXTINF:-1 tvg-logo="576.jpg",BEIN SPORTS 6.
+http://localhost/ch/604
+#EXTINF:-1 tvg-logo="578.jpg",BEIN SPORTS 7.
+http://localhost/ch/18318
+#EXTINF:-1 tvg-logo="585.png",BEIN SPORTS ENGLISH 1
+http://localhost/ch/18319
+#EXTINF:-1 tvg-logo="18168.png",BEIN SPORTS ENGLISH 2 HD
+http://localhost/ch/18269
+#EXTINF:-1 tvg-logo="18169.png",BEIN SPORTS ENGLISH 3 HD
+http://localhost/ch/18270
+#EXTINF:-1 tvg-logo="580.png",BEIN PREMIUM 1
+http://localhost/ch/18352
+#EXTINF:-1 tvg-logo="582.png",BEIN PREMIUM 2
+http://localhost/ch/18321
+#EXTINF:-1 tvg-logo="583.png",BEIN PREMIUM 3
+http://localhost/ch/18322
+#EXTINF:-1 tvg-logo="589.jpg",AD SPORTS 1 HD
+http://localhost/ch/617
+#EXTINF:-1 tvg-logo="590.jpg",AD SPORTS 2 HD
+http://localhost/ch/618
+#EXTINF:-1 tvg-logo="591.jpg",AD SPORTS PREMIUM 1
+http://localhost/ch/619
+#EXTINF:-1 tvg-logo="",AD SPORTS PREMIUM 2
+http://localhost/ch/23518
+#EXTINF:-1 tvg-logo="",PAARA 1
+http://localhost/ch/15842
+#EXTINF:-1 tvg-logo="",PAARA 2
+http://localhost/ch/15843
+#EXTINF:-1 tvg-logo="",PAARA 3
+http://localhost/ch/15844
+#EXTINF:-1 tvg-logo="",PAARA 4
+http://localhost/ch/15845
+#EXTINF:-1 tvg-logo="",PAARA 5
+http://localhost/ch/15846
+#EXTINF:-1 tvg-logo="",PAARA 6
+http://localhost/ch/15847
+#EXTINF:-1 tvg-logo="",PAARA 7
+http://localhost/ch/15848
+#EXTINF:-1 tvg-logo="",PAARA 8
+http://localhost/ch/15849
+#EXTINF:-1 tvg-logo="",PAARA 9
+http://localhost/ch/15850
+#EXTINF:-1 tvg-logo="",PAARA 10
+http://localhost/ch/15851
+#EXTINF:-1 tvg-logo="",PAARA 11
+http://localhost/ch/15852
+#EXTINF:-1 tvg-logo="",PAARA 12
+http://localhost/ch/15853
+#EXTINF:-1 tvg-logo="",PAARA 13
+http://localhost/ch/15854
+#EXTINF:-1 tvg-logo="",PAARA 14
+http://localhost/ch/15855
+#EXTINF:-1 tvg-logo="",PAARA 15
+http://localhost/ch/15856
+#EXTINF:-1 tvg-logo="",PAARA 16
+http://localhost/ch/15857
+#EXTINF:-1 tvg-logo="",PAARA 17
+http://localhost/ch/15858
+#EXTINF:-1 tvg-logo="",PAARA 18
+http://localhost/ch/15859
+#EXTINF:-1 tvg-logo="",PAARA 19
+http://localhost/ch/15860
+#EXTINF:-1 tvg-logo="",PAARA 20
+http://localhost/ch/15861
+#EXTINF:-1 tvg-logo="",PAARA 21
+http://localhost/ch/15862
+#EXTINF:-1 tvg-logo="",PAARA 22
+http://localhost/ch/15863
+#EXTINF:-1 tvg-logo="",PAARA 23
+http://localhost/ch/15864
+#EXTINF:-1 tvg-logo="",PAARA 24
+http://localhost/ch/15865
+#EXTINF:-1 tvg-logo="",PAARA 25
+http://localhost/ch/15866
+#EXTINF:-1 tvg-logo="",PAARA 26
+http://localhost/ch/15867
+#EXTINF:-1 tvg-logo="",PAARA 27
+http://localhost/ch/15868
+#EXTINF:-1 tvg-logo="",PAARA 28
+http://localhost/ch/15869
+#EXTINF:-1 tvg-logo="",PAARA 29
+http://localhost/ch/15870
+#EXTINF:-1 tvg-logo="",PAARA 30
+http://localhost/ch/15871
+#EXTINF:-1 tvg-logo="18297.png",ARY NEWS..
+http://localhost/ch/18467
+#EXTINF:-1 tvg-logo="",ARY NEWS.
+http://localhost/ch/7284
+#EXTINF:-1 tvg-logo="2.png",GEO NEWS
+http://localhost/ch/18326
+#EXTINF:-1 tvg-logo="6915.png",GEO NEWS.
+http://localhost/ch/7329
+#EXTINF:-1 tvg-logo="18.jpg",92 NEWS
+http://localhost/ch/43
+#EXTINF:-1 tvg-logo="",HUM NEWS HD
+http://localhost/ch/7341
+#EXTINF:-1 tvg-logo="23.jpg",HUM NEWS
+http://localhost/ch/48
+#EXTINF:-1 tvg-logo="",GTV NEWS
+http://localhost/ch/7299
+#EXTINF:-1 tvg-logo="",EXPRESS NEWS.
+http://localhost/ch/7308
+#EXTINF:-1 tvg-logo="12.png",EXPRESS NEWS
+http://localhost/ch/37
+#EXTINF:-1 tvg-logo="",DUNYA NEWS.
+http://localhost/ch/7302
+#EXTINF:-1 tvg-logo="15.png",DUNYA NEWS
+http://localhost/ch/40
+#EXTINF:-1 tvg-logo="19.jpg",SAMMA NEWS
+http://localhost/ch/44
+#EXTINF:-1 tvg-logo="",SAMMA NEWS.
+http://localhost/ch/7392
+#EXTINF:-1 tvg-logo="",NEO NEWS HD
+http://localhost/ch/7368
+#EXTINF:-1 tvg-logo="",NEO NEWS
+http://localhost/ch/15878
+#EXTINF:-1 tvg-logo="",BOL NEWS HD
+http://localhost/ch/7293
+#EXTINF:-1 tvg-logo="24.jpg",BOL NEWS
+http://localhost/ch/49
+#EXTINF:-1 tvg-logo="",24  NEWS HD
+http://localhost/ch/7245
+#EXTINF:-1 tvg-logo="26.jpg",24 NEWS
+http://localhost/ch/52
+#EXTINF:-1 tvg-logo="",GNN NEWS HD
+http://localhost/ch/7320
+#EXTINF:-1 tvg-logo="6.jpg",GNN
+http://localhost/ch/2682
+#EXTINF:-1 tvg-logo="28.jpg",NEWS ONE
+http://localhost/ch/54
+#EXTINF:-1 tvg-logo="",NEWS ONE.
+http://localhost/ch/7365
+#EXTINF:-1 tvg-logo="11.png",DAWN NEWS
+http://localhost/ch/36
+#EXTINF:-1 tvg-logo="29.jpg",AB TAK NEWS
+http://localhost/ch/55
+#EXTINF:-1 tvg-logo="",ABTAK NEWS
+http://localhost/ch/7278
+#EXTINF:-1 tvg-logo="",PUBLIC NEWS HD
+http://localhost/ch/7389
+#EXTINF:-1 tvg-logo="17.jpg",PUBLIC NEWS
+http://localhost/ch/42
+#EXTINF:-1 tvg-logo="",LAHORE NEWS HD
+http://localhost/ch/7356
+#EXTINF:-1 tvg-logo="25.jpg",LAHORE NEWS
+http://localhost/ch/50
+#EXTINF:-1 tvg-logo="20.jpg",AAJ NEWS
+http://localhost/ch/45
+#EXTINF:-1 tvg-logo="",AAJ NEWS.
+http://localhost/ch/7257
+#EXTINF:-1 tvg-logo="3.png",GEO TEZ
+http://localhost/ch/26
+#EXTINF:-1 tvg-logo="",GEO TEZ.
+http://localhost/ch/7335
+#EXTINF:-1 tvg-logo="18162.jpg",PNN NEWS
+http://localhost/ch/18263
+#EXTINF:-1 tvg-logo="21.jpg",CAPITAL NEWS
+http://localhost/ch/46
+#EXTINF:-1 tvg-logo="31.jpg",CITY  41
+http://localhost/ch/57
+#EXTINF:-1 tvg-logo="",CITY 41.
+http://localhost/ch/7404
+#EXTINF:-1 tvg-logo="32.jpg",CITY 42
+http://localhost/ch/58
+#EXTINF:-1 tvg-logo="",CITY 42.
+http://localhost/ch/7296
+#EXTINF:-1 tvg-logo="30.jpg",APNA CHANNEL
+http://localhost/ch/56
+#EXTINF:-1 tvg-logo="33.jpg",CHANNEL 5
+http://localhost/ch/59
+#EXTINF:-1 tvg-logo="",PTV NEWS
+http://localhost/ch/7383
+#EXTINF:-1 tvg-logo="6858.jpg",AVT KHYBER NEWS
+http://localhost/ch/7272
+#EXTINF:-1 tvg-logo="66.jpg",AVT KHYBER NEWS.
+http://localhost/ch/95
+#EXTINF:-1 tvg-logo="64.jpg",K21
+http://localhost/ch/90
+#EXTINF:-1 tvg-logo="15633.jpg",UK 44
+http://localhost/ch/15840
+#EXTINF:-1 tvg-logo="",KTN NEWS
+http://localhost/ch/15910
+#EXTINF:-1 tvg-logo="",QURAN TV
+http://localhost/ch/20575
+#EXTINF:-1 tvg-logo="",SAUDI QURAN HD
+http://localhost/ch/20551
+#EXTINF:-1 tvg-logo="",SAUDI SUNNAH LIVE
+http://localhost/ch/20555
+#EXTINF:-1 tvg-logo="",PAIGHAM TV PK
+http://localhost/ch/20559
+#EXTINF:-1 tvg-logo="",ISLAM CHANNEL EN
+http://localhost/ch/20539
+#EXTINF:-1 tvg-logo="",ISLAM CHANNEL URDU
+http://localhost/ch/20543
+#EXTINF:-1 tvg-logo="13111.png",ISLAM TV
+http://localhost/ch/13408
+#EXTINF:-1 tvg-logo="",IQRAA TV
+http://localhost/ch/7359
+#EXTINF:-1 tvg-logo="",NOOR TV UK
+http://localhost/ch/20527
+#EXTINF:-1 tvg-logo="",TAKBEER TV
+http://localhost/ch/20531
+#EXTINF:-1 tvg-logo="",MADANI CHANNEL UK.
+http://localhost/ch/20563
+#EXTINF:-1 tvg-logo="15676.jpg",MADNI
+http://localhost/ch/15883
+#EXTINF:-1 tvg-logo="",EMAAN TV
+http://localhost/ch/20535
+#EXTINF:-1 tvg-logo="",ARY QTV
+http://localhost/ch/7266
+#EXTINF:-1 tvg-logo="61.jpg",PEACE TV URDU
+http://localhost/ch/87
+#EXTINF:-1 tvg-logo="65.jpg",PEACE TV ENGLISH
+http://localhost/ch/91
+#EXTINF:-1 tvg-logo="",SIRAJ TV UK
+http://localhost/ch/23572
+#EXTINF:-1 tvg-logo="69.jpg",HIDAYAT TV
+http://localhost/ch/96
+#EXTINF:-1 tvg-logo="",AHLEBAIT TV
+http://localhost/ch/20567
+#EXTINF:-1 tvg-logo="",AHLULBAIT TV
+http://localhost/ch/20547
+#EXTINF:-1 tvg-logo="35.jpg",HUM TV
+http://localhost/ch/61
+#EXTINF:-1 tvg-logo="",HUM TV HD
+http://localhost/ch/7338
+#EXTINF:-1 tvg-logo="41.jpg",GEO ENTERTAINMENT.
+http://localhost/ch/67
+#EXTINF:-1 tvg-logo="6909.jpg",GEO ENTERTAINMENT
+http://localhost/ch/7323
+#EXTINF:-1 tvg-logo="45.jpg",ARY DIGITAL
+http://localhost/ch/71
+#EXTINF:-1 tvg-logo="6867.jpg",ARY DIGITAL.
+http://localhost/ch/7281
+#EXTINF:-1 tvg-logo="",GREEN TV
+http://localhost/ch/7377
+#EXTINF:-1 tvg-logo="51.jpg",EXPRESS ENTERTAINMENT
+http://localhost/ch/77
+#EXTINF:-1 tvg-logo="",EXPRESS ENTERTAINMENT.
+http://localhost/ch/7305
+#EXTINF:-1 tvg-logo="40.jpg",A PL
+http://localhost/ch/66
+#EXTINF:-1 tvg-logo="6837.jpg",A PL.
+http://localhost/ch/7251
+#EXTINF:-1 tvg-logo="6984.jpg",TV ONE..
+http://localhost/ch/7395
+#EXTINF:-1 tvg-logo="48.jpg",TV ONE
+http://localhost/ch/74
+#EXTINF:-1 tvg-logo="",LAHORE RANG
+http://localhost/ch/23233
+#EXTINF:-1 tvg-logo="6876.jpg",BOL ENTERTAINMENT HD.
+http://localhost/ch/7290
+#EXTINF:-1 tvg-logo="52.jpg",BOL ENTERTAINMENT HD
+http://localhost/ch/78
+#EXTINF:-1 tvg-logo="6840.jpg",AAJ ENTERTAINMENT.
+http://localhost/ch/7254
+#EXTINF:-1 tvg-logo="55.jpg",AAJ ENTERTAINMENT
+http://localhost/ch/81
+#EXTINF:-1 tvg-logo="18163.jpg",SAB TV
+http://localhost/ch/18264
+#EXTINF:-1 tvg-logo="6987.jpg",URDU 1.
+http://localhost/ch/7398
+#EXTINF:-1 tvg-logo="49.jpg",URDU 1
+http://localhost/ch/75
+#EXTINF:-1 tvg-logo="7458.png",LTN CHANNEL
+http://localhost/ch/7752
+#EXTINF:-1 tvg-logo="53.jpg",PTV WORLD
+http://localhost/ch/79
+#EXTINF:-1 tvg-logo="6975.jpg",PTV WORLD.
+http://localhost/ch/7386
+#EXTINF:-1 tvg-logo="54.jpg",PTV HOME
+http://localhost/ch/80
+#EXTINF:-1 tvg-logo="",PTV NATIONAL
+http://localhost/ch/7380
+#EXTINF:-1 tvg-logo="6960.jpg",PTV GLOBAL
+http://localhost/ch/7371
+#EXTINF:-1 tvg-logo="38.jpg",HUM SITAREY
+http://localhost/ch/64
+#EXTINF:-1 tvg-logo="6930.jpg",HUM SITAREY.
+http://localhost/ch/7344
+#EXTINF:-1 tvg-logo="39.jpg",HUM MASALA
+http://localhost/ch/65
+#EXTINF:-1 tvg-logo="6873.jpg",ARY ZINDAGI.
+http://localhost/ch/7287
+#EXTINF:-1 tvg-logo="43.jpg",GEO KAHANI
+http://localhost/ch/69
+#EXTINF:-1 tvg-logo="6912.jpg",GEO KAHANI.
+http://localhost/ch/7326
+#EXTINF:-1 tvg-logo="58.jpg",SEE TV
+http://localhost/ch/84
+#EXTINF:-1 tvg-logo="47.jpg",ARY ZINDAGI
+http://localhost/ch/73
+#EXTINF:-1 tvg-logo="6897.png",FILMAZIA
+http://localhost/ch/7311
+#EXTINF:-1 tvg-logo="57.jpg",FILM WORLD
+http://localhost/ch/83
+#EXTINF:-1 tvg-logo="6900.jpg",SILVER SCREEN
+http://localhost/ch/7314
+#EXTINF:-1 tvg-logo="59.jpg",ATV
+http://localhost/ch/85
+#EXTINF:-1 tvg-logo="6999.jpg",PLAY ENT.
+http://localhost/ch/7410
+#EXTINF:-1 tvg-logo="60.jpg",PLAY ENT
+http://localhost/ch/86
+#EXTINF:-1 tvg-logo="6849.jpg",ARY MUSIC
+http://localhost/ch/7263
+#EXTINF:-1 tvg-logo="67.jpg",AVT KHYBER
+http://localhost/ch/93
+#EXTINF:-1 tvg-logo="6855.jpg",AVT KHYBER.
+http://localhost/ch/7269
+#EXTINF:-1 tvg-logo="68.jpg",KAY 2
+http://localhost/ch/94
+#EXTINF:-1 tvg-logo="15704.jpg",KTN ENTERTAINMENT
+http://localhost/ch/15911
+#EXTINF:-1 tvg-logo="16209.jpg",SINDH NEWS
+http://localhost/ch/16310
+#EXTINF:-1 tvg-logo="34.jpg",SINDH TV
+http://localhost/ch/60
+#EXTINF:-1 tvg-logo="",DISCOVER PAKISTAN
+http://localhost/ch/23801
+#EXTINF:-1 tvg-logo="598.jpg",SKY CINEMA ACTION
+http://localhost/ch/680
+#EXTINF:-1 tvg-logo="599.jpg",SKY CINEMA COMEDY
+http://localhost/ch/681
+#EXTINF:-1 tvg-logo="600.jpg",SKY CINEMA PREMIER
+http://localhost/ch/682
+#EXTINF:-1 tvg-logo="602.jpg",SKY CINEMA FAMILY
+http://localhost/ch/684
+#EXTINF:-1 tvg-logo="603.jpg",SKY CINEMA MODERN GREATS
+http://localhost/ch/685
+#EXTINF:-1 tvg-logo="604.jpg",SKY CINEMA SCI FI
+http://localhost/ch/686
+#EXTINF:-1 tvg-logo="605.jpg",SKY CINEMA THRILLER
+http://localhost/ch/687
+#EXTINF:-1 tvg-logo="606.jpg",SKY CINEMA DRAMA
+http://localhost/ch/688
+#EXTINF:-1 tvg-logo="18289.png",SKY CINEMA HITS.
+http://localhost/ch/18459
+#EXTINF:-1 tvg-logo="614.jpg",SONY MOVIES
+http://localhost/ch/2981
+#EXTINF:-1 tvg-logo="14122.jpg",HBO EAST
+http://localhost/ch/14419
+#EXTINF:-1 tvg-logo="14186.png",HBO SIGNATURE EAST
+http://localhost/ch/14483
+#EXTINF:-1 tvg-logo="",HBO COMEDY
+http://localhost/ch/20399
+#EXTINF:-1 tvg-logo="14185.png",HBO ZONE
+http://localhost/ch/14482
+#EXTINF:-1 tvg-logo="14184.png",HBO FAMILY
+http://localhost/ch/14481
+#EXTINF:-1 tvg-logo="14150.png",EPIX
+http://localhost/ch/14447
+#EXTINF:-1 tvg-logo="14148.jpg",EPIX 2
+http://localhost/ch/14445
+#EXTINF:-1 tvg-logo="14151.png",EPIX HITS
+http://localhost/ch/14448
+#EXTINF:-1 tvg-logo="14149.png",EPIX DRIVE IN
+http://localhost/ch/14446
+#EXTINF:-1 tvg-logo="14138.jpg",HDNET MOVIES
+http://localhost/ch/14435
+#EXTINF:-1 tvg-logo="15208.png",MOVIE TIME
+http://localhost/ch/15415
+#EXTINF:-1 tvg-logo="15209.png",STARZ 1
+http://localhost/ch/15416
+#EXTINF:-1 tvg-logo="15207.png",STARZ 2
+http://localhost/ch/15414
+#EXTINF:-1 tvg-logo="15211.png",SILVERSCREEN CLASSICS HD
+http://localhost/ch/15418
+#EXTINF:-1 tvg-logo="15210.jpg",SUPER CHANNEL HEART HOME
+http://localhost/ch/15417
+#EXTINF:-1 tvg-logo="",SUPER CHANNEL FE
+http://localhost/ch/15420
+#EXTINF:-1 tvg-logo="",SUPER CHANNEL VAULT
+http://localhost/ch/15413
+#EXTINF:-1 tvg-logo="15214.png",SHOWCASE.
+http://localhost/ch/15421
+#EXTINF:-1 tvg-logo="15212.png",SHOWCASE HD
+http://localhost/ch/15419
+#EXTINF:-1 tvg-logo="15215.png",MOVIETIME
+http://localhost/ch/15422
+#EXTINF:-1 tvg-logo="15218.png",HBO 1 HD
+http://localhost/ch/15425
+#EXTINF:-1 tvg-logo="15216.png",HBO 2
+http://localhost/ch/15423
+#EXTINF:-1 tvg-logo="15220.jpg",CRAVE 1
+http://localhost/ch/15427
+#EXTINF:-1 tvg-logo="15221.jpg",CRAVE 2
+http://localhost/ch/15428
+#EXTINF:-1 tvg-logo="15222.jpg",CRAVE 3
+http://localhost/ch/15429
+#EXTINF:-1 tvg-logo="15223.jpg",CRAVE 4
+http://localhost/ch/15430
+#EXTINF:-1 tvg-logo="15229.png",SPIKE / PARAMOUNT
+http://localhost/ch/15436
+#EXTINF:-1 tvg-logo="14135.jpg",THRILLER MAX
+http://localhost/ch/14432
+#EXTINF:-1 tvg-logo="14173.png",SHOWTIME EAST
+http://localhost/ch/14470
+#EXTINF:-1 tvg-logo="14172.png",SHOWTIME SHOWCASE
+http://localhost/ch/14469
+#EXTINF:-1 tvg-logo="14171.png",SHOWTIME EXTREME
+http://localhost/ch/14468
+#EXTINF:-1 tvg-logo="",SHOWTIME NEXT
+http://localhost/ch/22116
+#EXTINF:-1 tvg-logo="14170.png",SHOWTIME BEYOND
+http://localhost/ch/14467
+#EXTINF:-1 tvg-logo="14169.png",SHOWTIME WOMEN
+http://localhost/ch/14466
+#EXTINF:-1 tvg-logo="",SHOWTIME FAMILY ZONE
+http://localhost/ch/22115
+#EXTINF:-1 tvg-logo="14168.png",SHOWTIME 2
+http://localhost/ch/14465
+#EXTINF:-1 tvg-logo="",STARZ EAST
+http://localhost/ch/22117
+#EXTINF:-1 tvg-logo="14134.png",STARZ KIDS & FAMILY
+http://localhost/ch/14431
+#EXTINF:-1 tvg-logo="14176.png",STARZ EDGE
+http://localhost/ch/14473
+#EXTINF:-1 tvg-logo="14178.png",STARZ ENCORE
+http://localhost/ch/14475
+#EXTINF:-1 tvg-logo="",STARZ ENCORE ACTION
+http://localhost/ch/22118
+#EXTINF:-1 tvg-logo="14179.png",STARZ CINEMA
+http://localhost/ch/14476
+#EXTINF:-1 tvg-logo="14174.png",STARZ COMEDY
+http://localhost/ch/14471
+#EXTINF:-1 tvg-logo="14177.png",STARZ ENCORE SUSPENSE
+http://localhost/ch/14474
+#EXTINF:-1 tvg-logo="14175.png",STARZ BLACK
+http://localhost/ch/14472
+#EXTINF:-1 tvg-logo="",STARZ ENCORE FAMILY PACIFIC
+http://localhost/ch/22119
+#EXTINF:-1 tvg-logo="",STARZ IN BLACK
+http://localhost/ch/22122
+#EXTINF:-1 tvg-logo="",STARZ ENCORE WEST
+http://localhost/ch/22121
+#EXTINF:-1 tvg-logo="",STARZ ENCORE CLASSIC
+http://localhost/ch/22120
+#EXTINF:-1 tvg-logo="14183.png",CINEMAX 
+http://localhost/ch/14480
+#EXTINF:-1 tvg-logo="14260.png",CINEMAX PACIFIC
+http://localhost/ch/14557
+#EXTINF:-1 tvg-logo="18213.png",TCM
+http://localhost/ch/18389
+#EXTINF:-1 tvg-logo="",HALLMARK
+http://localhost/ch/22123
+#EXTINF:-1 tvg-logo="18214.jpg",HALLMARK DRAMA
+http://localhost/ch/18390
+#EXTINF:-1 tvg-logo="14136.png",HALLMARK MOVIES MORE
+http://localhost/ch/14433
+#EXTINF:-1 tvg-logo="14137.png",HALLMARK MOVIES & MYSTERY
+http://localhost/ch/14434
+#EXTINF:-1 tvg-logo="4409.png",BEIN MOVIES 1 PREMEIRE
+http://localhost/ch/4664
+#EXTINF:-1 tvg-logo="4405.png",BEIN MOVIES 2 ACTION
+http://localhost/ch/4660
+#EXTINF:-1 tvg-logo="4406.png",BEIN MOVIES 3 DRAMA
+http://localhost/ch/4661
+#EXTINF:-1 tvg-logo="4408.jpg",BEIN MOVIES 4 FAMILY
+http://localhost/ch/4663
+#EXTINF:-1 tvg-logo="6679.png",FOX ACTION MOVIES
+http://localhost/ch/7095
+#EXTINF:-1 tvg-logo="",TCM UK
+http://localhost/ch/22286
+#EXTINF:-1 tvg-logo="2620.jpg",CARTOON NETWORK....
+http://localhost/ch/6074
+#EXTINF:-1 tvg-logo="",CARTOON NETWORK US
+http://localhost/ch/20467
+#EXTINF:-1 tvg-logo="15172.png",CARTOON NETWORK CA
+http://localhost/ch/15379
+#EXTINF:-1 tvg-logo="",CARTOON NETWORK IND
+http://localhost/ch/22179
+#EXTINF:-1 tvg-logo="",TREE HOUSE CA
+http://localhost/ch/20123
+#EXTINF:-1 tvg-logo="2592.jpg",BOOMERANG
+http://localhost/ch/2741
+#EXTINF:-1 tvg-logo="2587.jpg",BABY TV
+http://localhost/ch/6076
+#EXTINF:-1 tvg-logo="14144.jpg",BABY TV US
+http://localhost/ch/14441
+#EXTINF:-1 tvg-logo="2591.jpg",NICK JR 1
+http://localhost/ch/2740
+#EXTINF:-1 tvg-logo="",NICK JR US
+http://localhost/ch/20483
+#EXTINF:-1 tvg-logo="2588.jpg",NICK JR 2
+http://localhost/ch/6063
+#EXTINF:-1 tvg-logo="2593.jpg",NICKTOONS
+http://localhost/ch/6064
+#EXTINF:-1 tvg-logo="14143.jpg",NICKTOONS US
+http://localhost/ch/14440
+#EXTINF:-1 tvg-logo="",NICKLEODEON
+http://localhost/ch/19851
+#EXTINF:-1 tvg-logo="",NICKLEODEON CA
+http://localhost/ch/20107
+#EXTINF:-1 tvg-logo="",NICK US
+http://localhost/ch/20439
+#EXTINF:-1 tvg-logo="",NICK TEEN US
+http://localhost/ch/20475
+#EXTINF:-1 tvg-logo="2618.jpg",DISNEY CHANNEL..
+http://localhost/ch/2767
+#EXTINF:-1 tvg-logo="14147.jpg",DISNEY CHANNEL US
+http://localhost/ch/14444
+#EXTINF:-1 tvg-logo="15171.png",DISNEY CHANNEL CA
+http://localhost/ch/15378
+#EXTINF:-1 tvg-logo="",DISNEY INTERNATIONAL
+http://localhost/ch/22180
+#EXTINF:-1 tvg-logo="14145.jpg",DISNEY JR US
+http://localhost/ch/14442
+#EXTINF:-1 tvg-logo="15164.png",DISNEY JR CA
+http://localhost/ch/15371
+#EXTINF:-1 tvg-logo="2597.jpg",Disney XD
+http://localhost/ch/2746
+#EXTINF:-1 tvg-logo="14146.jpg",DISNEY XD US
+http://localhost/ch/14443
+#EXTINF:-1 tvg-logo="15169.png",DISNEY XD CA
+http://localhost/ch/15376
+#EXTINF:-1 tvg-logo="15166.png",FAMILY JR CA
+http://localhost/ch/15373
+#EXTINF:-1 tvg-logo="15167.jpg",FAMILY CA
+http://localhost/ch/15374
+#EXTINF:-1 tvg-logo="2600.jpg",C ITV
+http://localhost/ch/6067
+#EXTINF:-1 tvg-logo="2594.jpg",C BEEBIES
+http://localhost/ch/6066
+#EXTINF:-1 tvg-logo="2595.jpg",CARTOONITO
+http://localhost/ch/2744
+#EXTINF:-1 tvg-logo="",POP
+http://localhost/ch/19839
+#EXTINF:-1 tvg-logo="",POP MAX
+http://localhost/ch/19843
+#EXTINF:-1 tvg-logo="",TINY POP
+http://localhost/ch/19847
+#EXTINF:-1 tvg-logo="2617.jpg",POGO
+http://localhost/ch/2766
+#EXTINF:-1 tvg-logo="14125.png",PBS KIDS
+http://localhost/ch/14422
+#EXTINF:-1 tvg-logo="15227.png",YTV EAST
+http://localhost/ch/15434
+#EXTINF:-1 tvg-logo="",UNIVERSAL KIDS US
+http://localhost/ch/20495
+#EXTINF:-1 tvg-logo="",DISCOVERY KIDS
+http://localhost/ch/22174
+#EXTINF:-1 tvg-logo="",HUNGAMA
+http://localhost/ch/22175
+#EXTINF:-1 tvg-logo="15275.jpg",CHUCHU TV 1
+http://localhost/ch/15482
+#EXTINF:-1 tvg-logo="15276.jpg",CHUCHU TV 2
+http://localhost/ch/15483
+#EXTINF:-1 tvg-logo="15283.jpg",CHUCHU TV 3
+http://localhost/ch/15490
+#EXTINF:-1 tvg-logo="15284.jpg",CHUCHU TV 4
+http://localhost/ch/15491
+#EXTINF:-1 tvg-logo="14499.jpg",TELETUBBIES 1
+http://localhost/ch/14798
+#EXTINF:-1 tvg-logo="14500.jpg",TELETUBBIES 2
+http://localhost/ch/14799
+#EXTINF:-1 tvg-logo="14501.jpg",TELETUBBIES 3
+http://localhost/ch/14800
+#EXTINF:-1 tvg-logo="14497.jpg",DAVE & AVA 1
+http://localhost/ch/14796
+#EXTINF:-1 tvg-logo="14498.jpg",DAVE & AVA 2
+http://localhost/ch/14797
+#EXTINF:-1 tvg-logo="14496.jpg",BABY RHYMES
+http://localhost/ch/14795
+#EXTINF:-1 tvg-logo="14492.jpg",TOM & JERRY 1
+http://localhost/ch/14791
+#EXTINF:-1 tvg-logo="14493.jpg",TOM & JERRY 2
+http://localhost/ch/14792
+#EXTINF:-1 tvg-logo="14494.jpg",TOM & JERRY 3
+http://localhost/ch/14793
+#EXTINF:-1 tvg-logo="14495.jpg",TOM & JERRY 4
+http://localhost/ch/14794
+#EXTINF:-1 tvg-logo="",BEN 10
+http://localhost/ch/21603
+#EXTINF:-1 tvg-logo="",MICKEY MOUSE CLUBHOUSE
+http://localhost/ch/21607
+#EXTINF:-1 tvg-logo="",LOONEY TUNES
+http://localhost/ch/21611
+#EXTINF:-1 tvg-logo="",MR BEAN
+http://localhost/ch/21615
+#EXTINF:-1 tvg-logo="",PAW PATROL
+http://localhost/ch/21627
+#EXTINF:-1 tvg-logo="",PEPPA PIG
+http://localhost/ch/21631
+#EXTINF:-1 tvg-logo="",THE SMURFS
+http://localhost/ch/21635
+#EXTINF:-1 tvg-logo="",SCOOBY-DOO
+http://localhost/ch/21639
+#EXTINF:-1 tvg-logo="",SPONGEBOB SQUARE PANTS
+http://localhost/ch/21643
+#EXTINF:-1 tvg-logo="",THE GARFIELD SHOW
+http://localhost/ch/21655
+#EXTINF:-1 tvg-logo="",THE PINK PANTHER
+http://localhost/ch/21659
+#EXTINF:-1 tvg-logo="",POKEMON
+http://localhost/ch/21667
+#EXTINF:-1 tvg-logo="",POPEYE
+http://localhost/ch/21671
+#EXTINF:-1 tvg-logo="",SKY SPORTS PREMIER LEAGUE
+http://localhost/ch/19855
+#EXTINF:-1 tvg-logo="",SUPER SPORT P LEAGUE
+http://localhost/ch/19923
+#EXTINF:-1 tvg-logo="",SKY SPORTS FOOTBALL
+http://localhost/ch/19859
+#EXTINF:-1 tvg-logo="",SUPER SPORT FOOTBALL.
+http://localhost/ch/23994
+#EXTINF:-1 tvg-logo="",SUPER SPORT FOOTBALL PLUS
+http://localhost/ch/23995
+#EXTINF:-1 tvg-logo="",BT SPORT 1
+http://localhost/ch/19935
+#EXTINF:-1 tvg-logo="",BT SPORT 2
+http://localhost/ch/19939
+#EXTINF:-1 tvg-logo="",BT SPORT 3
+http://localhost/ch/19943
+#EXTINF:-1 tvg-logo="",BT SPORT 5
+http://localhost/ch/19947
+#EXTINF:-1 tvg-logo="",BT SPORT 6
+http://localhost/ch/19951
+#EXTINF:-1 tvg-logo="",BT SPORT 7
+http://localhost/ch/19955
+#EXTINF:-1 tvg-logo="",BT SPORT 8
+http://localhost/ch/19959
+#EXTINF:-1 tvg-logo="",BT SPORT 9
+http://localhost/ch/19963
+#EXTINF:-1 tvg-logo="",PREMIER SPORTS 1 HD
+http://localhost/ch/19907
+#EXTINF:-1 tvg-logo="",PREMIER SPORTS 2 HD
+http://localhost/ch/19911
+#EXTINF:-1 tvg-logo="",LALIGA HD
+http://localhost/ch/19903
+#EXTINF:-1 tvg-logo="",STAR SPORTS SELECT 1.
+http://localhost/ch/19895
+#EXTINF:-1 tvg-logo="",STAR SPORTS SELECT 2.
+http://localhost/ch/19899
+#EXTINF:-1 tvg-logo="",BEIN SPORTS 1
+http://localhost/ch/19883
+#EXTINF:-1 tvg-logo="",BEIN SPORTS 2
+http://localhost/ch/19887
+#EXTINF:-1 tvg-logo="",BEIN SPORTS 3
+http://localhost/ch/19891
+#EXTINF:-1 tvg-logo="382.jpg",TEN 1
+http://localhost/ch/412
+#EXTINF:-1 tvg-logo="383.jpg",TEN 2
+http://localhost/ch/413
+#EXTINF:-1 tvg-logo="384.jpg",TEN 3
+http://localhost/ch/415
+#EXTINF:-1 tvg-logo="373.jpg",SONY SPORTS 1 HD
+http://localhost/ch/403
+#EXTINF:-1 tvg-logo="374.jpg",SONY SPORTS 2 HD
+http://localhost/ch/404
+#EXTINF:-1 tvg-logo="375.jpg",SONY SPORTS 3 HD
+http://localhost/ch/405
+#EXTINF:-1 tvg-logo="",MUTV HD
+http://localhost/ch/19915
+#EXTINF:-1 tvg-logo="",LFC TV
+http://localhost/ch/19919
+#EXTINF:-1 tvg-logo="",ASTRO SPORTS 1
+http://localhost/ch/19863
+#EXTINF:-1 tvg-logo="",ASTRO SPORTS 2
+http://localhost/ch/19867
+#EXTINF:-1 tvg-logo="",ASTRO SPORTS 3
+http://localhost/ch/19871
+#EXTINF:-1 tvg-logo="",ASTRO SPORTS 4
+http://localhost/ch/19875
+#EXTINF:-1 tvg-logo="",ASTRO SPORTS 5
+http://localhost/ch/19879
+#EXTINF:-1 tvg-logo="",EPL 1 :
+http://localhost/ch/22288
+#EXTINF:-1 tvg-logo="",EPL 2 :
+http://localhost/ch/22289
+#EXTINF:-1 tvg-logo="",EPL 3:
+http://localhost/ch/22290
+#EXTINF:-1 tvg-logo="",EPL 4:
+http://localhost/ch/22291
+#EXTINF:-1 tvg-logo="",EPL 5:
+http://localhost/ch/22292
+#EXTINF:-1 tvg-logo="",EPL 6:
+http://localhost/ch/22293
+#EXTINF:-1 tvg-logo="",EPL 7:
+http://localhost/ch/22294
+#EXTINF:-1 tvg-logo="",EPL 8
+http://localhost/ch/22295
+#EXTINF:-1 tvg-logo="",EPL 4K
+http://localhost/ch/22296
+#EXTINF:-1 tvg-logo="14127.png",CNN HD
+http://localhost/ch/14424
+#EXTINF:-1 tvg-logo="14153.jpg",FOX NEWS HD
+http://localhost/ch/14450
+#EXTINF:-1 tvg-logo="",ABC NEWS
+http://localhost/ch/20319
+#EXTINF:-1 tvg-logo="",ALJAZEERA HD
+http://localhost/ch/20323
+#EXTINF:-1 tvg-logo="",THE WEATHER CHANNEL
+http://localhost/ch/20491
+#EXTINF:-1 tvg-logo="",ABC HD
+http://localhost/ch/20315
+#EXTINF:-1 tvg-logo="14238.png",BBC AMERICA
+http://localhost/ch/14535
+#EXTINF:-1 tvg-logo="14201.png",A&E
+http://localhost/ch/14498
+#EXTINF:-1 tvg-logo="",GSN
+http://localhost/ch/20395
+#EXTINF:-1 tvg-logo="14190.jpg",TLC  HD
+http://localhost/ch/14487
+#EXTINF:-1 tvg-logo="14189.png",AMC
+http://localhost/ch/14486
+#EXTINF:-1 tvg-logo="14207.png",HGTV
+http://localhost/ch/14504
+#EXTINF:-1 tvg-logo="14241.jpg",BRAVO
+http://localhost/ch/14538
+#EXTINF:-1 tvg-logo="",COMEDY CENTRAL
+http://localhost/ch/20359
+#EXTINF:-1 tvg-logo="14187.png",TNT
+http://localhost/ch/14484
+#EXTINF:-1 tvg-logo="14191.png",SYFY
+http://localhost/ch/14488
+#EXTINF:-1 tvg-logo="14232.jpg",COOKING CHANNEL
+http://localhost/ch/14529
+#EXTINF:-1 tvg-logo="14214.png",FOOD NETWORK HD
+http://localhost/ch/14511
+#EXTINF:-1 tvg-logo="14167.png",VICELAND
+http://localhost/ch/14464
+#EXTINF:-1 tvg-logo="",VH1 HD
+http://localhost/ch/20447
+#EXTINF:-1 tvg-logo="",LIFETIME HD
+http://localhost/ch/20503
+#EXTINF:-1 tvg-logo="14262.png",FX HD
+http://localhost/ch/14559
+#EXTINF:-1 tvg-logo="14181.png",FXM
+http://localhost/ch/14478
+#EXTINF:-1 tvg-logo="14180.png",FXX
+http://localhost/ch/14477
+#EXTINF:-1 tvg-logo="14195.png",E!
+http://localhost/ch/14492
+#EXTINF:-1 tvg-logo="14193.png",OWN
+http://localhost/ch/14490
+#EXTINF:-1 tvg-logo="14192.png",OXYGEN
+http://localhost/ch/14489
+#EXTINF:-1 tvg-logo="15259.jpg",YES NETWORK
+http://localhost/ch/15466
+#EXTINF:-1 tvg-logo="",WE TV HD
+http://localhost/ch/20451
+#EXTINF:-1 tvg-logo="",NEWS NATION
+http://localhost/ch/20455
+#EXTINF:-1 tvg-logo="14239.png",BET
+http://localhost/ch/14536
+#EXTINF:-1 tvg-logo="14199.png",BET HER
+http://localhost/ch/14496
+#EXTINF:-1 tvg-logo="14126.png",TBS EAST
+http://localhost/ch/14423
+#EXTINF:-1 tvg-logo="15258.png",USA NETWORK
+http://localhost/ch/15465
+#EXTINF:-1 tvg-logo="",FYI
+http://localhost/ch/20391
+#EXTINF:-1 tvg-logo="",HLN HD
+http://localhost/ch/20403
+#EXTINF:-1 tvg-logo="",FUSE
+http://localhost/ch/20387
+#EXTINF:-1 tvg-logo="14123.png",POP TV
+http://localhost/ch/14420
+#EXTINF:-1 tvg-logo="",DISNEY XD MARATHON
+http://localhost/ch/20471
+#EXTINF:-1 tvg-logo="",MANGOLIA NETWORK
+http://localhost/ch/20375
+#EXTINF:-1 tvg-logo="",CMT HD
+http://localhost/ch/20351
+#EXTINF:-1 tvg-logo="",BBC NEWS A
+http://localhost/ch/20335
+#EXTINF:-1 tvg-logo="",CNBC A
+http://localhost/ch/20355
+#EXTINF:-1 tvg-logo="",CNBC WORLD.
+http://localhost/ch/20311
+#EXTINF:-1 tvg-logo="",FOX BSINESS
+http://localhost/ch/20379
+#EXTINF:-1 tvg-logo="",BLOOMBERG HD.
+http://localhost/ch/20339
+#EXTINF:-1 tvg-logo="14117.jpg",MSNBC
+http://localhost/ch/14414
+#EXTINF:-1 tvg-logo="14256.png",C-SPAN 1
+http://localhost/ch/14553
+#EXTINF:-1 tvg-logo="14257.png",C-SPAN 2
+http://localhost/ch/14554
+#EXTINF:-1 tvg-logo="",BABY FIRST
+http://localhost/ch/20327
+#EXTINF:-1 tvg-logo="",ANIMAL PLANET...
+http://localhost/ch/14505
+#EXTINF:-1 tvg-logo="14209.jpg",HISTORY
+http://localhost/ch/14506
+#EXTINF:-1 tvg-logo="14210.png",DISCOVERY FAMILY
+http://localhost/ch/14507
+#EXTINF:-1 tvg-logo="14211.jpg",DISCOVERY LIFE
+http://localhost/ch/14508
+#EXTINF:-1 tvg-logo="14212.jpg",DISCOVERY CHANNEL
+http://localhost/ch/14509
+#EXTINF:-1 tvg-logo="14213.png",INVESTIGATION DISCOVERY
+http://localhost/ch/14510
+#EXTINF:-1 tvg-logo="14129.jpg",CRIME & INVESTIGATION
+http://localhost/ch/14426
+#EXTINF:-1 tvg-logo="14128.jpg",NAT GEO WILD
+http://localhost/ch/14425
+#EXTINF:-1 tvg-logo="14154.jpg",NAT GEO
+http://localhost/ch/14451
+#EXTINF:-1 tvg-logo="14203.png",DESTINATION AMERICA
+http://localhost/ch/14500
+#EXTINF:-1 tvg-logo="",OUTDOOR
+http://localhost/ch/20487
+#EXTINF:-1 tvg-logo="",SMITHSONIAN CHANNEL
+http://localhost/ch/20499
+#EXTINF:-1 tvg-logo="14236.jpg",SCIENCE CHANNEL
+http://localhost/ch/14533
+#EXTINF:-1 tvg-logo="14237.png",TRAVEL CHANNEL
+http://localhost/ch/14534
+#EXTINF:-1 tvg-logo="14216.png",AMERICAN HEROES CHANNEL
+http://localhost/ch/14513
+#EXTINF:-1 tvg-logo="",BBC EARTH
+http://localhost/ch/20331
+#EXTINF:-1 tvg-logo="",WORLD FISHING
+http://localhost/ch/20459
+#EXTINF:-1 tvg-logo="",LMN
+http://localhost/ch/20407
+#EXTINF:-1 tvg-logo="",MTV HD
+http://localhost/ch/20411
+#EXTINF:-1 tvg-logo="",MTV 2 HD
+http://localhost/ch/20415
+#EXTINF:-1 tvg-logo="",MTV LIVE
+http://localhost/ch/20419
+#EXTINF:-1 tvg-logo="",MTV CLASSIC.
+http://localhost/ch/20423
+#EXTINF:-1 tvg-logo="",MTV U
+http://localhost/ch/20427
+#EXTINF:-1 tvg-logo="",MIC CHOICE MAX
+http://localhost/ch/20431
+#EXTINF:-1 tvg-logo="",TRU TV
+http://localhost/ch/22297
+#EXTINF:-1 tvg-logo="",ABC KABC LOS ANGELES 4K
+http://localhost/ch/23592
+#EXTINF:-1 tvg-logo="",ABC KATU PORTLAND 4K
+http://localhost/ch/23593
+#EXTINF:-1 tvg-logo="",ABC KDNL ST. LOUIS 4K
+http://localhost/ch/23594
+#EXTINF:-1 tvg-logo="",ABC KFSN FRESNO 4K
+http://localhost/ch/23595
+#EXTINF:-1 tvg-logo="",ABC KGO SAN FRANCISCO 4K
+http://localhost/ch/23596
+#EXTINF:-1 tvg-logo="",ABC KMBC KANSAS CITY 4K
+http://localhost/ch/23597
+#EXTINF:-1 tvg-logo="",ABC KMGH DENVER 4K
+http://localhost/ch/23598
+#EXTINF:-1 tvg-logo="",ABC KNXV PHOENIX 4K
+http://localhost/ch/23599
+#EXTINF:-1 tvg-logo="",ABC KOMO SEATTLE 4K
+http://localhost/ch/23600
+#EXTINF:-1 tvg-logo="",ABC KSAT SAN ANTONIO 4K
+http://localhost/ch/23601
+#EXTINF:-1 tvg-logo="",ABC KSTP SAINT PAUL 4K
+http://localhost/ch/23602
+#EXTINF:-1 tvg-logo="",ABC KTRK HOUSTON 4K
+http://localhost/ch/23603
+#EXTINF:-1 tvg-logo="",ABC KTVX SALT LAKE CITY
+http://localhost/ch/23604
+#EXTINF:-1 tvg-logo="",ABC SACRAMENTO 4K
+http://localhost/ch/23605
+#EXTINF:-1 tvg-logo="",ABC WCVB BOSTON 4K
+http://localhost/ch/23606
+#EXTINF:-1 tvg-logo="",ABC WEWS CLEVELAND 4K
+http://localhost/ch/23607
+#EXTINF:-1 tvg-logo="",ABC WFAA DALLAS 4K
+http://localhost/ch/23608
+#EXTINF:-1 tvg-logo="",ABC WFTV ORLANDO 4K
+http://localhost/ch/23609
+#EXTINF:-1 tvg-logo="",ABC WISN MILWAUKEE 4K
+http://localhost/ch/23610
+#EXTINF:-1 tvg-logo="",ABC WKRN NASHVILLE 4K
+http://localhost/ch/23611
+#EXTINF:-1 tvg-logo="",ABC WLS CHICAGO 4K
+http://localhost/ch/23612
+#EXTINF:-1 tvg-logo="",ABC WPLG MIAMI 4K
+http://localhost/ch/23613
+#EXTINF:-1 tvg-logo="",ABC WPVI PHILADELPHIA 4K
+http://localhost/ch/23614
+#EXTINF:-1 tvg-logo="",ABC WRTV INDIANAPOLIS 4K
+http://localhost/ch/23615
+#EXTINF:-1 tvg-logo="",ABC WSB ATLANTA 4K
+http://localhost/ch/23616
+#EXTINF:-1 tvg-logo="",ABC WSOC CHARLOTTE 4K
+http://localhost/ch/23617
+#EXTINF:-1 tvg-logo="",ABC WSYX COLUMBUS 4K
+http://localhost/ch/23618
+#EXTINF:-1 tvg-logo="",ABC WTAE PITTSBURGH 4K
+http://localhost/ch/23619
+#EXTINF:-1 tvg-logo="",ABC WVAW CHARLOTTESVILLE 4K
+http://localhost/ch/23620
+#EXTINF:-1 tvg-logo="",ABC WXYZ DETROIT MICHIGAN 4K
+http://localhost/ch/23621
+#EXTINF:-1 tvg-logo="",ABC 8 WTNH HARTFORD 4K
+http://localhost/ch/23622
+#EXTINF:-1 tvg-logo="",ABC ACTION 4K
+http://localhost/ch/23623
+#EXTINF:-1 tvg-logo="",ABC WJLA WASHINGTON DC 4K
+http://localhost/ch/23624
+#EXTINF:-1 tvg-logo="",ABC 10 ALBANY 4K
+http://localhost/ch/23625
+#EXTINF:-1 tvg-logo="",ABC WNEP SCRANTON 4K
+http://localhost/ch/23626
+#EXTINF:-1 tvg-logo="",ABC 7 NEW YORK 4K
+http://localhost/ch/23627
+#EXTINF:-1 tvg-logo="",NBC 10 EAST 4K
+http://localhost/ch/23629
+#EXTINF:-1 tvg-logo="",NBC 4 WNBC NEW YORK 4K
+http://localhost/ch/23630
+#EXTINF:-1 tvg-logo="",NBC 5 WMAQ 4K
+http://localhost/ch/23631
+#EXTINF:-1 tvg-logo="",NBC UNIVERSO 4K
+http://localhost/ch/23632
+#EXTINF:-1 tvg-logo="",NBC  KARE MINNEAPOLIS 4K
+http://localhost/ch/23633
+#EXTINF:-1 tvg-logo="",NBC  KCHY CASPER 4K
+http://localhost/ch/23634
+#EXTINF:-1 tvg-logo="",NBC  KCRA SACRAMENTO 4K
+http://localhost/ch/23635
+#EXTINF:-1 tvg-logo="",NBC  KDEN DENVER 4K
+http://localhost/ch/23636
+#EXTINF:-1 tvg-logo="",NBC  KGW PORTLAND  4K
+http://localhost/ch/23637
+#EXTINF:-1 tvg-logo="",NBC  KNBC LOS ANGELES 4K
+http://localhost/ch/23638
+#EXTINF:-1 tvg-logo="",NBC  KNTV SAN FRANCISCO 4K
+http://localhost/ch/23639
+#EXTINF:-1 tvg-logo="",NBC  KPLC  LAKE CHARLES 4K
+http://localhost/ch/23640
+#EXTINF:-1 tvg-logo="",NBC  KPNX  PHOENIX 4K
+http://localhost/ch/23641
+#EXTINF:-1 tvg-logo="",NBC  KPRC HOUSTON 4K
+http://localhost/ch/23642
+#EXTINF:-1 tvg-logo="",NBC  KSDK  ST. LOUIS 4K
+http://localhost/ch/23643
+#EXTINF:-1 tvg-logo="",NBC  KSHB KANSAS CITY 4K
+http://localhost/ch/23644
+#EXTINF:-1 tvg-logo="",NBC  KSL SALT LAKE CITY 4K
+http://localhost/ch/23645
+#EXTINF:-1 tvg-logo="",NBC  KTVF FAIRBANKS 4K
+http://localhost/ch/23646
+#EXTINF:-1 tvg-logo="",NBC  KUSA DENVER 4K
+http://localhost/ch/23647
+#EXTINF:-1 tvg-logo="",NBC  KXAS FORT WORTH 4K
+http://localhost/ch/23648
+#EXTINF:-1 tvg-logo="",NBC  WBTS BOSTON 4K
+http://localhost/ch/23649
+#EXTINF:-1 tvg-logo="",NBC  WCNC CHARLOTTE 4K
+http://localhost/ch/23650
+#EXTINF:-1 tvg-logo="",NBC  WDIV  DETROIT 4K
+http://localhost/ch/23651
+#EXTINF:-1 tvg-logo="",NBC  WDSU  NEW ORLEANS 4K
+http://localhost/ch/23652
+#EXTINF:-1 tvg-logo="",NBC  WESH ORLANDO 4K
+http://localhost/ch/23653
+#EXTINF:-1 tvg-logo="",NBC  WGBA GREEN BAY 4K
+http://localhost/ch/23654
+#EXTINF:-1 tvg-logo="",NBC  WGRZ  BUFFALO 4K
+http://localhost/ch/23655
+#EXTINF:-1 tvg-logo="",NBC  WHEC ROCHESTER 4K
+http://localhost/ch/23656
+#EXTINF:-1 tvg-logo="",NBC  WJHG PANAMA CITY 4K
+http://localhost/ch/23657
+#EXTINF:-1 tvg-logo="",NBC  WKYC CLEVELAND 4K
+http://localhost/ch/23658
+#EXTINF:-1 tvg-logo="",NBC  WLWT CINCINNATI 4K
+http://localhost/ch/23659
+#EXTINF:-1 tvg-logo="",NBC  WMAQ CHICAGO 4K
+http://localhost/ch/23660
+#EXTINF:-1 tvg-logo="",NBC  WPXI PITTSBURGH 4K
+http://localhost/ch/23661
+#EXTINF:-1 tvg-logo="",NBC  WRAL RALEIGH 4K
+http://localhost/ch/23662
+#EXTINF:-1 tvg-logo="",NBC  WRC WASHINGTON D.C. 4K
+http://localhost/ch/23663
+#EXTINF:-1 tvg-logo="",NBC  WSCV MIAMI 4K
+http://localhost/ch/23664
+#EXTINF:-1 tvg-logo="",NBC  WSMV NASHVILLE 4K
+http://localhost/ch/23665
+#EXTINF:-1 tvg-logo="",NBC  WTHR INDIANAPOLIS 4K
+http://localhost/ch/23666
+#EXTINF:-1 tvg-logo="",NBC  WTLV JACKSONVILLE 4K
+http://localhost/ch/23667
+#EXTINF:-1 tvg-logo="",NBC  WTMJ MILWAUKEE 4K
+http://localhost/ch/23668
+#EXTINF:-1 tvg-logo="",NBC  WTVA TUPELO 4K
+http://localhost/ch/23669
+#EXTINF:-1 tvg-logo="",NBC  WTVJ MIAMI FLORIDA 4K
+http://localhost/ch/23670
+#EXTINF:-1 tvg-logo="",NBC  WVIT  NEW BRITAIN 4K
+http://localhost/ch/23671
+#EXTINF:-1 tvg-logo="",NBC  WXIA ATLANTA 4K
+http://localhost/ch/23672
+#EXTINF:-1 tvg-logo="",NBC  WXXV GULFPORT 4K
+http://localhost/ch/23673
+#EXTINF:-1 tvg-logo="",NBC  WALB ALBANY 4K
+http://localhost/ch/23674
+#EXTINF:-1 tvg-logo="",NBC  WTWC TALLAHASSEE 4K
+http://localhost/ch/23675
+#EXTINF:-1 tvg-logo="",NBC  8 WFLA TAMPA 4K
+http://localhost/ch/23676
+#EXTINF:-1 tvg-logo="",NBC  2 TULSA 4K
+http://localhost/ch/23677
+#EXTINF:-1 tvg-logo="",NBC  MONTGOMERY 8 4K
+http://localhost/ch/23678
+#EXTINF:-1 tvg-logo="",NBC  4 TUCSON 4K
+http://localhost/ch/23679
+#EXTINF:-1 tvg-logo="",NBC  5 WEST PALM BEACH 4K
+http://localhost/ch/23680
+#EXTINF:-1 tvg-logo="",NBC  WMGT MACON 4K
+http://localhost/ch/23681
+#EXTINF:-1 tvg-logo="",NBC  WRCB CHATTANOOGA 4K
+http://localhost/ch/23682
+#EXTINF:-1 tvg-logo="",NBC  KBMT BEAUMONT TX 4K
+http://localhost/ch/23683
+#EXTINF:-1 tvg-logo="",NBC  WBRE WILKES BARRE 4K
+http://localhost/ch/23684
+#EXTINF:-1 tvg-logo="",NBC  WECT WILMINGTON V
+http://localhost/ch/23685
+#EXTINF:-1 tvg-logo="",NBC  13 ALBANY WNYT 4K
+http://localhost/ch/23686
+#EXTINF:-1 tvg-logo="",NBC  WGAL LANCASTER 4K
+http://localhost/ch/23687
+#EXTINF:-1 tvg-logo="",NBC  WLEX LEXINGTON 4K
+http://localhost/ch/23688
+#EXTINF:-1 tvg-logo="",NBC  WBIR KNOXVILLEV 4K
+http://localhost/ch/23689
+#EXTINF:-1 tvg-logo="",NBC  PHILADELPHIA 4K
+http://localhost/ch/23690
+#EXTINF:-1 tvg-logo="",FOX  8 WJW CLEVELAND 4K
+http://localhost/ch/23691
+#EXTINF:-1 tvg-logo="",FOX  KCPQ SEATTLE 4K
+http://localhost/ch/23692
+#EXTINF:-1 tvg-logo="",FOX  KDFW DALLAS 4K
+http://localhost/ch/23693
+#EXTINF:-1 tvg-logo="",FOX  KPTV PORTLAND 4K
+http://localhost/ch/23694
+#EXTINF:-1 tvg-logo="",FOX  KRIV HOUSTON 4K
+http://localhost/ch/23695
+#EXTINF:-1 tvg-logo="",FOX  KSAZ PHOENIX 4K
+http://localhost/ch/23696
+#EXTINF:-1 tvg-logo="",FOX  KSTU SALT LAKE CITY 4K
+http://localhost/ch/23697
+#EXTINF:-1 tvg-logo="",FOX  KSWB SAN DIEGO 4K
+http://localhost/ch/23698
+#EXTINF:-1 tvg-logo="",FOX  KTTV LOS ANGELES 4K
+http://localhost/ch/23699
+#EXTINF:-1 tvg-logo="",FOX  KTTW SIOUX FALLS 4K
+http://localhost/ch/23700
+#EXTINF:-1 tvg-logo="",FOX  KTVI ST. LOUIS 4K
+http://localhost/ch/23701
+#EXTINF:-1 tvg-logo="",FOX  KTXH HOUSTON 4K
+http://localhost/ch/23702
+#EXTINF:-1 tvg-logo="",FOX  PHOENIX 4K
+http://localhost/ch/23703
+#EXTINF:-1 tvg-logo="",FOX  WAGA ATLANTA 4K
+http://localhost/ch/23704
+#EXTINF:-1 tvg-logo="",FOX  WBFF BALTIMORE 4K
+http://localhost/ch/23705
+#EXTINF:-1 tvg-logo="",FOX  WDAF KANSAS CITY 4K
+http://localhost/ch/23706
+#EXTINF:-1 tvg-logo="",FOX  WFLD CHICAGO 4K
+http://localhost/ch/23707
+#EXTINF:-1 tvg-logo="",FOX  WFTC MINNEAPOLIS 4K
+http://localhost/ch/23708
+#EXTINF:-1 tvg-logo="",FOX  WFXT BOSTON 4K
+http://localhost/ch/23709
+#EXTINF:-1 tvg-logo="",FOX  WITI MILWAUKEE 4K
+http://localhost/ch/23710
+#EXTINF:-1 tvg-logo="",FOX  WJZY CHARLOTTE 4K
+http://localhost/ch/23711
+#EXTINF:-1 tvg-logo="",FOX  WOFL ORLANDO 4K
+http://localhost/ch/23712
+#EXTINF:-1 tvg-logo="",FOX  WPGH PITTSBURGH 4K
+http://localhost/ch/23713
+#EXTINF:-1 tvg-logo="",FOX  WRAZ RALEIGH 4K
+http://localhost/ch/23714
+#EXTINF:-1 tvg-logo="",FOX  WSVN MIAMI FLORIDA 4K
+http://localhost/ch/23715
+#EXTINF:-1 tvg-logo="",FOX  WTIC HARTFORD 4K
+http://localhost/ch/23716
+#EXTINF:-1 tvg-logo="",FOX  WTTE COLUMBUS OHIO 4K
+http://localhost/ch/23717
+#EXTINF:-1 tvg-logo="",FOX  WTTG WASHINGTON D.C. 4K
+http://localhost/ch/23718
+#EXTINF:-1 tvg-logo="",FOX  WTVT TAMPA 4K
+http://localhost/ch/23719
+#EXTINF:-1 tvg-logo="",FOX  WTXF PHILADELPHIA 4K
+http://localhost/ch/23720
+#EXTINF:-1 tvg-logo="",FOX  WVUE NEW ORLEANS 4K
+http://localhost/ch/23721
+#EXTINF:-1 tvg-logo="",FOX  WXIN INDIANAPOLIS 4K
+http://localhost/ch/23722
+#EXTINF:-1 tvg-logo="",FOX  WXIX CINCINNATI 4K
+http://localhost/ch/23723
+#EXTINF:-1 tvg-logo="",FOX  WJBK DETROIT 4K
+http://localhost/ch/23724
+#EXTINF:-1 tvg-logo="",FOX  23 TULSA 4K
+http://localhost/ch/23725
+#EXTINF:-1 tvg-logo="",FOX  SAN FRANCISCO 4K
+http://localhost/ch/23726
+#EXTINF:-1 tvg-logo="",FOX  29 WEST 4K
+http://localhost/ch/23727
+#EXTINF:-1 tvg-logo="",FOX  11 TUCSON 4K
+http://localhost/ch/23728
+#EXTINF:-1 tvg-logo="",FOX  WPMT PA YORK 4K
+http://localhost/ch/23729
+#EXTINF:-1 tvg-logo="",FOX  KDFI DALLAS 4K
+http://localhost/ch/23730
+#EXTINF:-1 tvg-logo="",FOX  WDKY LEXINGTON 4K
+http://localhost/ch/23731
+#EXTINF:-1 tvg-logo="",FOX  WTNZ KNOXVILLE 4K
+http://localhost/ch/23732
+#EXTINF:-1 tvg-logo="",FOX  30 JACKSONVILLE 4K
+http://localhost/ch/23733
+#EXTINF:-1 tvg-logo="",FOX  5 NEW YORK 4K
+http://localhost/ch/23734
+#EXTINF:-1 tvg-logo="",FOX  WFXTDT 4K
+http://localhost/ch/23735
+#EXTINF:-1 tvg-logo="",CBS  EAST 4K
+http://localhost/ch/23736
+#EXTINF:-1 tvg-logo="",CBS  NY FHD 4K
+http://localhost/ch/23737
+#EXTINF:-1 tvg-logo="",CBS  4 HD MIAMI 4K
+http://localhost/ch/23738
+#EXTINF:-1 tvg-logo="",CBS  KCBS LOS ANGELES 4K
+http://localhost/ch/23739
+#EXTINF:-1 tvg-logo="",CBS  KCNC DENVER COLORADO 4K
+http://localhost/ch/23740
+#EXTINF:-1 tvg-logo="",CBS  KCTV KANSAS CITY 4K
+http://localhost/ch/23741
+#EXTINF:-1 tvg-logo="",CBS  KDKA PITTSBURGH 4K
+http://localhost/ch/23742
+#EXTINF:-1 tvg-logo="",CBS  KENS SAN ANTONIO 4K
+http://localhost/ch/23743
+#EXTINF:-1 tvg-logo="",CBS  KEYE AUSTIN 4K
+http://localhost/ch/23744
+#EXTINF:-1 tvg-logo="",CBS  KFMB SAN DIEGO 4K
+http://localhost/ch/23745
+#EXTINF:-1 tvg-logo="",CBS  KGMB HONOLULU 4K
+http://localhost/ch/23746
+#EXTINF:-1 tvg-logo="",CBS  KHOU HOUSTON 4K
+http://localhost/ch/23747
+#EXTINF:-1 tvg-logo="",CBS  KIRO SEATTLE 4K
+http://localhost/ch/23748
+#EXTINF:-1 tvg-logo="",CBS  KMOV ST. LOUIS 4K
+http://localhost/ch/23749
+#EXTINF:-1 tvg-logo="",CBS  KOIN PORTLAND 4K
+http://localhost/ch/23750
+#EXTINF:-1 tvg-logo="",CBS  KOVR SACRAMENTO CALIFORNIA 4K
+http://localhost/ch/23751
+#EXTINF:-1 tvg-logo="",CBS  KPHO PHOENIX- ARIZONA 4K
+http://localhost/ch/23752
+#EXTINF:-1 tvg-logo="",CBS  KTVT FORT WORTH TEXAS 4K
+http://localhost/ch/23753
+#EXTINF:-1 tvg-logo="",CBS  KUTV SALT LAKE CITY 4K
+http://localhost/ch/23754
+#EXTINF:-1 tvg-logo="",CBS  KYW PHILADELPHIA 4K
+http://localhost/ch/23755
+#EXTINF:-1 tvg-logo="",CBS  WBBM CHICAGO 4K
+http://localhost/ch/23756
+#EXTINF:-1 tvg-logo="",CBS  WBNS COLUMBUS 4K
+http://localhost/ch/23757
+#EXTINF:-1 tvg-logo="",CBS  WBTV CHARLOTTE 4K
+http://localhost/ch/23758
+#EXTINF:-1 tvg-logo="",CBS  WBZ BOSTON MASSACHUSETTS 4K
+http://localhost/ch/23759
+#EXTINF:-1 tvg-logo="",CBS  WCCO MINNEAPOLIS 4K
+http://localhost/ch/23760
+#EXTINF:-1 tvg-logo="",CBS  WDJT 4K
+http://localhost/ch/23761
+#EXTINF:-1 tvg-logo="",CBS  WFMY GREENSBORO 4K
+http://localhost/ch/23762
+#EXTINF:-1 tvg-logo="",CBS  WFSB HARTFORD 4K
+http://localhost/ch/23763
+#EXTINF:-1 tvg-logo="",CBS  WGCL ATLANTA GEORGIA 4K
+http://localhost/ch/23764
+#EXTINF:-1 tvg-logo="",CBS  WGME PORTLAND 4K
+http://localhost/ch/23765
+#EXTINF:-1 tvg-logo="",CBS  WHIO DAYTON 4K
+http://localhost/ch/23766
+#EXTINF:-1 tvg-logo="",CBS  WHP HARRISBURG 4K
+http://localhost/ch/23767
+#EXTINF:-1 tvg-logo="",CBS  WJAX JACKSONVILLE 4K
+http://localhost/ch/23768
+#EXTINF:-1 tvg-logo="",CBS  WKMG ORLANDO 4K
+http://localhost/ch/23769
+#EXTINF:-1 tvg-logo="",CBS  WKRC CINCINNATI 4K
+http://localhost/ch/23770
+#EXTINF:-1 tvg-logo="",CBS  WNCN RALEIGH 4K
+http://localhost/ch/23771
+#EXTINF:-1 tvg-logo="",CBS  WOIO CLEVELAND 4K
+http://localhost/ch/23772
+#EXTINF:-1 tvg-logo="",CBS  WTSP ST. PETERSBURG 4K
+http://localhost/ch/23773
+#EXTINF:-1 tvg-logo="",CBS  WTVF NASHVILLE TENNESSEE 4K
+http://localhost/ch/23774
+#EXTINF:-1 tvg-logo="",CBS  WUSA WASHINGTON D.C. 4K
+http://localhost/ch/23775
+#EXTINF:-1 tvg-logo="",CBS  WWJ DETROIT MICHIGAN 4K
+http://localhost/ch/23776
+#EXTINF:-1 tvg-logo="",CBS  WWL NEW ORLEANS 4K
+http://localhost/ch/23777
+#EXTINF:-1 tvg-logo="",CBS  WWMT KALAMAZOO 4K
+http://localhost/ch/23778
+#EXTINF:-1 tvg-logo="",CBS  WCTV THOMASVILLE4K
+http://localhost/ch/23779
+#EXTINF:-1 tvg-logo="",CBS  8 MONTGOMERY 4K
+http://localhost/ch/23780
+#EXTINF:-1 tvg-logo="",CBS  SAN FRANCISCO 4K
+http://localhost/ch/23781
+#EXTINF:-1 tvg-logo="",CBS  6 4K
+http://localhost/ch/23782
+#EXTINF:-1 tvg-logo="",CBS  13 4K
+http://localhost/ch/23783
+#EXTINF:-1 tvg-logo="",CBS  KTVT 4K
+http://localhost/ch/23784
+#EXTINF:-1 tvg-logo="",CBS  WWAY 4K
+http://localhost/ch/23785
+#EXTINF:-1 tvg-logo="",CBS  WKYT 4K
+http://localhost/ch/23786
+#EXTINF:-1 tvg-logo="",CBS  WTSP 4K
+http://localhost/ch/23787
+#EXTINF:-1 tvg-logo="",CBS  6 ALBANY WRGB 4K
+http://localhost/ch/23788
+#EXTINF:-1 tvg-logo="",CBS  WVLT KNOXVILLE 4K
+http://localhost/ch/23789
+#EXTINF:-1 tvg-logo="",CBS  2 NEW YORK 4K
+http://localhost/ch/23790
+#EXTINF:-1 tvg-logo="",CBS  WDEF 4K
+http://localhost/ch/23791
+#EXTINF:-1 tvg-logo="",CBS  12 4K
+http://localhost/ch/23792
+#EXTINF:-1 tvg-logo="",CBS  WMAZ 4K
+http://localhost/ch/23793
+#EXTINF:-1 tvg-logo="",CBS  KCAL 4K
+http://localhost/ch/23794
+#EXTINF:-1 tvg-logo="",CBS  PHILADELPHIA 4K
+http://localhost/ch/23795
+#EXTINF:-1 tvg-logo="121.jpg",ZEE CINEMA HD
+http://localhost/ch/150
+#EXTINF:-1 tvg-logo="122.jpg",ZEE CINEMA HD..
+http://localhost/ch/151
+#EXTINF:-1 tvg-logo="115.jpg",SONY MAX HD
+http://localhost/ch/144
+#EXTINF:-1 tvg-logo="117.jpg",SONY MAX HD..
+http://localhost/ch/146
+#EXTINF:-1 tvg-logo="127.jpg",STAR GOLD HD
+http://localhost/ch/156
+#EXTINF:-1 tvg-logo="129.jpg",STAR GOLD HD..
+http://localhost/ch/158
+#EXTINF:-1 tvg-logo="",STAR MOVIES HD
+http://localhost/ch/349
+#EXTINF:-1 tvg-logo="324.jpg",STAR MOVIES SELECT
+http://localhost/ch/353
+#EXTINF:-1 tvg-logo="130.jpg",STAR GOLD SELECT HD.
+http://localhost/ch/159
+#EXTINF:-1 tvg-logo="7074.png",STAR GOLD SELECT HD
+http://localhost/ch/7485
+#EXTINF:-1 tvg-logo="323.jpg",SONY PIX
+http://localhost/ch/352
+#EXTINF:-1 tvg-logo="",SONY PIX HINDI
+http://localhost/ch/22124
+#EXTINF:-1 tvg-logo="",MOVIES ACTIVE
+http://localhost/ch/22134
+#EXTINF:-1 tvg-logo="",&XPLORE HD
+http://localhost/ch/14590
+#EXTINF:-1 tvg-logo="110.jpg",& PICTURES HD
+http://localhost/ch/139
+#EXTINF:-1 tvg-logo="109.jpg",& PICTURES
+http://localhost/ch/138
+#EXTINF:-1 tvg-logo="6714.jfif",& PRIVE
+http://localhost/ch/7128
+#EXTINF:-1 tvg-logo="6711.png",& FLIX
+http://localhost/ch/7125
+#EXTINF:-1 tvg-logo="",MOVIES NOW
+http://localhost/ch/22136
+#EXTINF:-1 tvg-logo="",MNX HD
+http://localhost/ch/350
+#EXTINF:-1 tvg-logo="6720.png",MN PLUS
+http://localhost/ch/7134
+#EXTINF:-1 tvg-logo="125.jpg",ZEE ACTION
+http://localhost/ch/154
+#EXTINF:-1 tvg-logo="155.jpg",ZEE CLASSIC
+http://localhost/ch/184
+#EXTINF:-1 tvg-logo="",ZEE BOLLYWOOD
+http://localhost/ch/22128
+#EXTINF:-1 tvg-logo="135.jpg",ZEE ANMOL CINEMA
+http://localhost/ch/164
+#EXTINF:-1 tvg-logo="7164.jpg",CINEPLEX HD
+http://localhost/ch/7575
+#EXTINF:-1 tvg-logo="",MINIPLEX HD
+http://localhost/ch/22130
+#EXTINF:-1 tvg-logo="114.jpg",B4U MOVIES.
+http://localhost/ch/143
+#EXTINF:-1 tvg-logo="",STAR GOLD 2
+http://localhost/ch/22129
+#EXTINF:-1 tvg-logo="",B4U KADAK
+http://localhost/ch/23577
+#EXTINF:-1 tvg-logo="119.jpg",SONY MAX 2
+http://localhost/ch/148
+#EXTINF:-1 tvg-logo="6723.jfif",ROMEDY NOW
+http://localhost/ch/7137
+#EXTINF:-1 tvg-logo="",ENTER 10
+http://localhost/ch/22125
+#EXTINF:-1 tvg-logo="",STAR UTSAV MOVIES
+http://localhost/ch/22126
+#EXTINF:-1 tvg-logo="",MANORANJAN MOVIES
+http://localhost/ch/22127
+#EXTINF:-1 tvg-logo="156.jpg",MAHA MOVIES
+http://localhost/ch/185
+#EXTINF:-1 tvg-logo="",CINE ACTIVE
+http://localhost/ch/22135
+#EXTINF:-1 tvg-logo="",DHINCHAAK
+http://localhost/ch/22170
+#EXTINF:-1 tvg-logo="",MANORANJHAN TV
+http://localhost/ch/22200
+#EXTINF:-1 tvg-logo="14536.jpg",HINDI DUBBED MOVIES 1
+http://localhost/ch/14835
+#EXTINF:-1 tvg-logo="14537.jpg",HINDI DUBBED MOVIES 2
+http://localhost/ch/14836
+#EXTINF:-1 tvg-logo="14538.jpg",HINDI DUBBED MOVIES 3
+http://localhost/ch/14837
+#EXTINF:-1 tvg-logo="14539.jpg",HINDI DUBBED MOVIES 4
+http://localhost/ch/14838
+#EXTINF:-1 tvg-logo="14540.jpg",HINDI DUBBED MOVIES 5
+http://localhost/ch/14839
+#EXTINF:-1 tvg-logo="14541.jpg",HINDI DUBBED MOVIES 6
+http://localhost/ch/14840
+#EXTINF:-1 tvg-logo="14542.jpg",HINDI DUBBED MOVIES 7
+http://localhost/ch/14841
+#EXTINF:-1 tvg-logo="14543.jpg",HINDI DUBBED MOVIES 8
+http://localhost/ch/14842
+#EXTINF:-1 tvg-logo="14544.jpg",HINDI DUBBED MOVIES 9
+http://localhost/ch/14843
+#EXTINF:-1 tvg-logo="14545.jpg",HINDI DUBBED MOVIES 10
+http://localhost/ch/14844
+#EXTINF:-1 tvg-logo="14546.jpg",HINDI DUBBED MOVIES 11
+http://localhost/ch/14845
+#EXTINF:-1 tvg-logo="14547.jpg",HINDI DUBBED MOVIES 12
+http://localhost/ch/14846
+#EXTINF:-1 tvg-logo="14548.jpg",HINDI DUBBED MOVIES 13
+http://localhost/ch/14847
+#EXTINF:-1 tvg-logo="14518.jpg",HARRY POTTER (HINDI)
+http://localhost/ch/14817
+#EXTINF:-1 tvg-logo="14490.jpg",LATA MANGESHKSONGS
+http://localhost/ch/14789
+#EXTINF:-1 tvg-logo="7194.jpeg",KISHORE KUMAR SONGS
+http://localhost/ch/7605
+#EXTINF:-1 tvg-logo="14487.jpg",M RAFI SONGS
+http://localhost/ch/14786
+#EXTINF:-1 tvg-logo="14486.jpg",RAJESH KHANNA MOVIES
+http://localhost/ch/14785
+#EXTINF:-1 tvg-logo="14485.jpg",RAJ KAPOOR MOVIES
+http://localhost/ch/14784
+#EXTINF:-1 tvg-logo="14478.jpg",RAJ KUMAR MOVIES
+http://localhost/ch/14777
+#EXTINF:-1 tvg-logo="14477.jpg",DILIP KUMAR MOVIES
+http://localhost/ch/14776
+#EXTINF:-1 tvg-logo="14474.jpg",AMITABH BACHAN MOVIES 1
+http://localhost/ch/14773
+#EXTINF:-1 tvg-logo="14475.jpg",AMITABH BACHAN MOVIES 2
+http://localhost/ch/14774
+#EXTINF:-1 tvg-logo="14472.jpg",SALMAN KHAN MOVIES 1
+http://localhost/ch/14771
+#EXTINF:-1 tvg-logo="14473.jpg",SALMAN KHAN MOVIES 2
+http://localhost/ch/14772
+#EXTINF:-1 tvg-logo="7212.jpg",SHAH RUKH KHAN MOVIES 1
+http://localhost/ch/14770
+#EXTINF:-1 tvg-logo="7209.jpg",SHAH RUKH KHAN MOVIES 2
+http://localhost/ch/14769
+#EXTINF:-1 tvg-logo="7206.jpg",SHAH RUKH KHAN MOVIES 3
+http://localhost/ch/7617
+#EXTINF:-1 tvg-logo="7203.jpg",SUSHANT SINGH MOVIES 1
+http://localhost/ch/7614
+#EXTINF:-1 tvg-logo="7200.jpg",SUSHANT SINGH MOVIES 2
+http://localhost/ch/7611
+#EXTINF:-1 tvg-logo="7197.jpg",AMITABH BACHAN SONGS
+http://localhost/ch/7608
+#EXTINF:-1 tvg-logo="", MTV LEBANON
+http://localhost/ch/21988
+#EXTINF:-1 tvg-logo="", AL JADEED TV
+http://localhost/ch/21991
+#EXTINF:-1 tvg-logo="", AL JAZEERA MUBASHER 2 HD
+http://localhost/ch/22222
+#EXTINF:-1 tvg-logo="", AL JAZEERA ENGLISH HD
+http://localhost/ch/22220
+#EXTINF:-1 tvg-logo="", AL JAZEERA DOCUMENTARY HD
+http://localhost/ch/22221
+#EXTINF:-1 tvg-logo="", AL-MUSTAKILA
+http://localhost/ch/22219
+#EXTINF:-1 tvg-logo="", RT ARABIC HD
+http://localhost/ch/22218
+#EXTINF:-1 tvg-logo="", LBC HD
+http://localhost/ch/21995
+#EXTINF:-1 tvg-logo="", LBC
+http://localhost/ch/21986
+#EXTINF:-1 tvg-logo="", AL ARABIYA
+http://localhost/ch/22216
+#EXTINF:-1 tvg-logo="", ASHARQ NEWS CHANNEL HD
+http://localhost/ch/22213
+#EXTINF:-1 tvg-logo="", AL-ARABIYA ALHADATH
+http://localhost/ch/22214
+#EXTINF:-1 tvg-logo="", AL HADATH HD
+http://localhost/ch/22215
+#EXTINF:-1 tvg-logo="", FUTURE TV
+http://localhost/ch/21989
+#EXTINF:-1 tvg-logo="", MBN ALHURRA HD
+http://localhost/ch/22212
+#EXTINF:-1 tvg-logo="", MBN ALHURRA HD TV
+http://localhost/ch/22211
+#EXTINF:-1 tvg-logo="", ANB AR
+http://localhost/ch/22208
+#EXTINF:-1 tvg-logo="", AL JANOUBIA
+http://localhost/ch/21919
+#EXTINF:-1 tvg-logo="", AL EKHBARIA TV
+http://localhost/ch/21985
+#EXTINF:-1 tvg-logo="", MEDI1 TV ARABIC
+http://localhost/ch/22210
+#EXTINF:-1 tvg-logo="",MBC1 HD
+http://localhost/ch/22029
+#EXTINF:-1 tvg-logo="",MBC 1
+http://localhost/ch/22030
+#EXTINF:-1 tvg-logo="",MBC 2 HD
+http://localhost/ch/22027
+#EXTINF:-1 tvg-logo="",MBC 2
+http://localhost/ch/22028
+#EXTINF:-1 tvg-logo="",MBC 3 HD
+http://localhost/ch/22025
+#EXTINF:-1 tvg-logo="",MBC 3
+http://localhost/ch/22026
+#EXTINF:-1 tvg-logo="",MBC 4 HD
+http://localhost/ch/22023
+#EXTINF:-1 tvg-logo="",MBC 4
+http://localhost/ch/22024
+#EXTINF:-1 tvg-logo="",MBC 5
+http://localhost/ch/22022
+#EXTINF:-1 tvg-logo="",MBC IRAQ HD
+http://localhost/ch/22011
+#EXTINF:-1 tvg-logo="",MBC MASR
+http://localhost/ch/22021
+#EXTINF:-1 tvg-logo="", MBC MASR  2
+http://localhost/ch/22020
+#EXTINF:-1 tvg-logo="",MBC ACTION HD
+http://localhost/ch/22018
+#EXTINF:-1 tvg-logo="",MBC ACTION
+http://localhost/ch/22019
+#EXTINF:-1 tvg-logo="",MBC DRAMA HD
+http://localhost/ch/22014
+#EXTINF:-1 tvg-logo="",MBC  DRAMA
+http://localhost/ch/22015
+#EXTINF:-1 tvg-logo="",MBC PLUS DRAMA HD
+http://localhost/ch/22013
+#EXTINF:-1 tvg-logo="",MBC MAX HD
+http://localhost/ch/22016
+#EXTINF:-1 tvg-logo="",MBC MAX
+http://localhost/ch/22017
+#EXTINF:-1 tvg-logo="",MBC VARIETY HD
+http://localhost/ch/22010
+#EXTINF:-1 tvg-logo="",MBC BOLLYWOOD
+http://localhost/ch/22012
+#EXTINF:-1 tvg-logo="", 2M MAROC
+http://localhost/ch/21890
+#EXTINF:-1 tvg-logo="",ALGERIA TV 1
+http://localhost/ch/21914
+#EXTINF:-1 tvg-logo="",ALGERIA TV 2
+http://localhost/ch/21913
+#EXTINF:-1 tvg-logo="",ALGERIA TV 3
+http://localhost/ch/21912
+#EXTINF:-1 tvg-logo="",ALGERIA TV 4
+http://localhost/ch/21911
+#EXTINF:-1 tvg-logo="",ALGERIA TV 8
+http://localhost/ch/21907
+#EXTINF:-1 tvg-logo="", BERBERE TV
+http://localhost/ch/21892
+#EXTINF:-1 tvg-logo="", AL ANIS TV
+http://localhost/ch/21893
+#EXTINF:-1 tvg-logo="", EL HADDAF
+http://localhost/ch/21894
+#EXTINF:-1 tvg-logo="", EL FADJR TV
+http://localhost/ch/21895
+#EXTINF:-1 tvg-logo="", EL HAYAT TV
+http://localhost/ch/21896
+#EXTINF:-1 tvg-logo="", EL DJAZAIR N1
+http://localhost/ch/21898
+#EXTINF:-1 tvg-logo="", EL BILED TV
+http://localhost/ch/21901
+#EXTINF:-1 tvg-logo="", AL24 NEWS
+http://localhost/ch/21899
+#EXTINF:-1 tvg-logo="", BAHIA TV
+http://localhost/ch/21897
+#EXTINF:-1 tvg-logo="", ENNAHAR TV
+http://localhost/ch/21902
+#EXTINF:-1 tvg-logo="", ECHOUROUK NEWS
+http://localhost/ch/21903
+#EXTINF:-1 tvg-logo="", ECHOROUK TV
+http://localhost/ch/21904
+#EXTINF:-1 tvg-logo="", ZAHRA TV
+http://localhost/ch/21905
+#EXTINF:-1 tvg-logo="", SAMIRA TV
+http://localhost/ch/21906
+#EXTINF:-1 tvg-logo="", EL HIWAR ETTOUNSI
+http://localhost/ch/21915
+#EXTINF:-1 tvg-logo="", HANNIBAL TV
+http://localhost/ch/21916
+#EXTINF:-1 tvg-logo="", ZAYTOUNATV
+http://localhost/ch/21917
+#EXTINF:-1 tvg-logo="", TELVZA
+http://localhost/ch/21921
+#EXTINF:-1 tvg-logo="", AL INSEN
+http://localhost/ch/21922
+#EXTINF:-1 tvg-logo="", TUNISIA EDUC 1
+http://localhost/ch/21924
+#EXTINF:-1 tvg-logo="", TUNISIA NAT 1
+http://localhost/ch/21926
+#EXTINF:-1 tvg-logo="", TUNISIA NAT 2
+http://localhost/ch/21927
+#EXTINF:-1 tvg-logo="", AL OULA MAROC HD
+http://localhost/ch/21929
+#EXTINF:-1 tvg-logo="", MEDI1 TV
+http://localhost/ch/21930
+#EXTINF:-1 tvg-logo="", ASSADISSA HD
+http://localhost/ch/21931
+#EXTINF:-1 tvg-logo="", ARRIADHIA
+http://localhost/ch/21932
+#EXTINF:-1 tvg-logo="", ABU DHABI TV HD
+http://localhost/ch/21933
+#EXTINF:-1 tvg-logo="", TV TAMAZIGHT MAROC
+http://localhost/ch/21934
+#EXTINF:-1 tvg-logo="", ARRABIA HD
+http://localhost/ch/21935
+#EXTINF:-1 tvg-logo="", LIBYA CHANNEL
+http://localhost/ch/21936
+#EXTINF:-1 tvg-logo="", LIBYA AL AHRAR
+http://localhost/ch/21937
+#EXTINF:-1 tvg-logo="", AL SALAM
+http://localhost/ch/21938
+#EXTINF:-1 tvg-logo="", LIBYA FEBRAYER
+http://localhost/ch/21939
+#EXTINF:-1 tvg-logo="", LIBYA 218
+http://localhost/ch/21940
+#EXTINF:-1 tvg-logo="", LIBYA AL HADATH
+http://localhost/ch/21941
+#EXTINF:-1 tvg-logo="", TANASUH TV
+http://localhost/ch/21942
+#EXTINF:-1 tvg-logo="", LIBYA 218 NEWS
+http://localhost/ch/21943
+#EXTINF:-1 tvg-logo="", AL JAMAHIRIA TV
+http://localhost/ch/21944
+#EXTINF:-1 tvg-logo="", MUSAWA HD
+http://localhost/ch/21952
+#EXTINF:-1 tvg-logo="", ALMAJD KIDS
+http://localhost/ch/21968
+#EXTINF:-1 tvg-logo="", AL MAJD ISLAMIC SCINCE
+http://localhost/ch/21969
+#EXTINF:-1 tvg-logo="", AL MAJD PROPHETIC HADEETH
+http://localhost/ch/21970
+#EXTINF:-1 tvg-logo="", AL MAJD HOLY QURAN
+http://localhost/ch/21971
+#EXTINF:-1 tvg-logo="", AL MAJD SPACE CHANNEL
+http://localhost/ch/21972
+#EXTINF:-1 tvg-logo="", MEKAMELEEN
+http://localhost/ch/21973
+#EXTINF:-1 tvg-logo="", NOOR DUBAI
+http://localhost/ch/21974
+#EXTINF:-1 tvg-logo="", AD AL EMARAT
+http://localhost/ch/21975
+#EXTINF:-1 tvg-logo="", KARAMEESH
+http://localhost/ch/21976
+#EXTINF:-1 tvg-logo="", AD NAT GEO HD
+http://localhost/ch/21977
+#EXTINF:-1 tvg-logo="", AD DRAMA HD
+http://localhost/ch/21978
+#EXTINF:-1 tvg-logo="", DW TV ARABIA
+http://localhost/ch/21979
+#EXTINF:-1 tvg-logo="", SAMA DUBAI
+http://localhost/ch/21980
+#EXTINF:-1 tvg-logo="", MAZZIKA
+http://localhost/ch/21981
+#EXTINF:-1 tvg-logo="", AFAK TV
+http://localhost/ch/21982
+#EXTINF:-1 tvg-logo="", DUBAI ZAMAN
+http://localhost/ch/21983
+#EXTINF:-1 tvg-logo="", ATFAL W MAWAHEB
+http://localhost/ch/21984
+#EXTINF:-1 tvg-logo="", ARABICA TV
+http://localhost/ch/21990
+#EXTINF:-1 tvg-logo="", NBN LEBANON
+http://localhost/ch/21992
+#EXTINF:-1 tvg-logo="", AL MANAR TV
+http://localhost/ch/21993
+#EXTINF:-1 tvg-logo="", OTV LEBANON
+http://localhost/ch/21994
+#EXTINF:-1 tvg-logo="", ROYA
+http://localhost/ch/21997
+#EXTINF:-1 tvg-logo="", AL RAI TV
+http://localhost/ch/21998
+#EXTINF:-1 tvg-logo="", ROTANA CINEMA
+http://localhost/ch/21999
+#EXTINF:-1 tvg-logo="", ROTANA KHALIJIAH
+http://localhost/ch/22000
+#EXTINF:-1 tvg-logo="", ROTANA +
+http://localhost/ch/22001
+#EXTINF:-1 tvg-logo="", ROTANA DRAMA HD
+http://localhost/ch/22002
+#EXTINF:-1 tvg-logo="", ROTANA CLASSIC
+http://localhost/ch/22003
+#EXTINF:-1 tvg-logo="", ROTANA DRAMA
+http://localhost/ch/22004
+#EXTINF:-1 tvg-logo="", ROTANA CLASSIC HD
+http://localhost/ch/22005
+#EXTINF:-1 tvg-logo="", ROTANA CINEMA HD
+http://localhost/ch/22006
+#EXTINF:-1 tvg-logo="", ROTANA KIDS HD
+http://localhost/ch/22007
+#EXTINF:-1 tvg-logo="", ROTANA MUSIC HD
+http://localhost/ch/22008
+#EXTINF:-1 tvg-logo="", ROTANA KHALIJEAH HD
+http://localhost/ch/22009
+#EXTINF:-1 tvg-logo="", AL RAHMA
+http://localhost/ch/22031
+#EXTINF:-1 tvg-logo="", QURAN TV
+http://localhost/ch/22032
+#EXTINF:-1 tvg-logo="", SUNNAH TV
+http://localhost/ch/22033
+#EXTINF:-1 tvg-logo="", AL NAS
+http://localhost/ch/22035
+#EXTINF:-1 tvg-logo="", KAIFA TV
+http://localhost/ch/22036
+#EXTINF:-1 tvg-logo="", SAFA TV
+http://localhost/ch/22038
+#EXTINF:-1 tvg-logo="", ANB
+http://localhost/ch/22048
+#EXTINF:-1 tvg-logo="", SURYOYO SAT
+http://localhost/ch/22049
+#EXTINF:-1 tvg-logo="", SYRIA NEWS
+http://localhost/ch/22050
+#EXTINF:-1 tvg-logo="", SYRIAN EDUCATION
+http://localhost/ch/22051
+#EXTINF:-1 tvg-logo="", SOURYANA
+http://localhost/ch/22052
+#EXTINF:-1 tvg-logo="", NOUR AL SHAM TV
+http://localhost/ch/22057
+#EXTINF:-1 tvg-logo="", LANA TV FHD
+http://localhost/ch/22058
+#EXTINF:-1 tvg-logo="", LANA TV
+http://localhost/ch/22059
+#EXTINF:-1 tvg-logo="", SYRIA TV SD
+http://localhost/ch/22061
+#EXTINF:-1 tvg-logo="", SYRIA TV FHD
+http://localhost/ch/22062
+#EXTINF:-1 tvg-logo="", SYRIA TV HD
+http://localhost/ch/22063
+#EXTINF:-1 tvg-logo="", SAMA TV
+http://localhost/ch/22064
+#EXTINF:-1 tvg-logo="", SYRIA SATELLITE CHANNEL
+http://localhost/ch/22065
+#EXTINF:-1 tvg-logo="", SYRIAN DRAMA TV
+http://localhost/ch/22066
+#EXTINF:-1 tvg-logo="", AL RAFIDEEN
+http://localhost/ch/22067
+#EXTINF:-1 tvg-logo="", SUMARIA
+http://localhost/ch/22068
+#EXTINF:-1 tvg-logo="", AL SUMARIA TV FHD
+http://localhost/ch/22069
+#EXTINF:-1 tvg-logo="", AL KAWTHAR
+http://localhost/ch/22070
+#EXTINF:-1 tvg-logo="",IRAQ 1
+http://localhost/ch/22071
+#EXTINF:-1 tvg-logo="", ETIHAD TV
+http://localhost/ch/22072
+#EXTINF:-1 tvg-logo="", AL-MAAREF TV
+http://localhost/ch/22073
+#EXTINF:-1 tvg-logo="", AL RASHEED HD
+http://localhost/ch/22074
+#EXTINF:-1 tvg-logo="", ALTAGHIER
+http://localhost/ch/22076
+#EXTINF:-1 tvg-logo="", AL GHADEER
+http://localhost/ch/22077
+#EXTINF:-1 tvg-logo="", HONA BAGHDAD
+http://localhost/ch/22078
+#EXTINF:-1 tvg-logo="", AL ANBAR TV
+http://localhost/ch/22079
+#EXTINF:-1 tvg-logo="", AL FORAT TV
+http://localhost/ch/22081
+#EXTINF:-1 tvg-logo="", AL BAGHDAIA TV
+http://localhost/ch/22083
+#EXTINF:-1 tvg-logo="", AL SHAAER TV
+http://localhost/ch/22084
+#EXTINF:-1 tvg-logo="", IRAQIA NEWS FHD
+http://localhost/ch/22085
+#EXTINF:-1 tvg-logo="", AL ETEJAH TV HD
+http://localhost/ch/22087
+#EXTINF:-1 tvg-logo="", AL AYAM TV
+http://localhost/ch/22088
+#EXTINF:-1 tvg-logo="", AL SHARQIYA NEWS HD
+http://localhost/ch/22089
+#EXTINF:-1 tvg-logo="", AL IRAQIA NEWS
+http://localhost/ch/22090
+#EXTINF:-1 tvg-logo="", AL HURRA
+http://localhost/ch/22091
+#EXTINF:-1 tvg-logo="", AL AQILA TV
+http://localhost/ch/22093
+#EXTINF:-1 tvg-logo="", AL THAQALAYN TV
+http://localhost/ch/22095
+#EXTINF:-1 tvg-logo="", ALQAMAR TV
+http://localhost/ch/22096
+#EXTINF:-1 tvg-logo="",AL ANWAR TV
+http://localhost/ch/22097
+#EXTINF:-1 tvg-logo="", KARBALA TV FHD
+http://localhost/ch/22098
+#EXTINF:-1 tvg-logo="", ALMASAR
+http://localhost/ch/22099
+#EXTINF:-1 tvg-logo="", AL TURKMENIA TV
+http://localhost/ch/22100
+#EXTINF:-1 tvg-logo="", IRAQ FUTURE
+http://localhost/ch/22101
+#EXTINF:-1 tvg-logo="", AL MAWSLEYA
+http://localhost/ch/22102
+#EXTINF:-1 tvg-logo="", DIJLAH TV
+http://localhost/ch/22104
+#EXTINF:-1 tvg-logo="", AL NAEEM TV
+http://localhost/ch/22105
+#EXTINF:-1 tvg-logo="", AL IRAQIA 1
+http://localhost/ch/22106
+#EXTINF:-1 tvg-logo="", SHABAB-ALQITHARA
+http://localhost/ch/22107
+#EXTINF:-1 tvg-logo="", AL SHARQIYA FHD
+http://localhost/ch/22109
+#EXTINF:-1 tvg-logo="", AL SHARQIYA HD
+http://localhost/ch/22110
+#EXTINF:-1 tvg-logo="", UTV IRAQ HD
+http://localhost/ch/22111
+#EXTINF:-1 tvg-logo="",DUBAI TV
+http://localhost/ch/23511
+#EXTINF:-1 tvg-logo="",DUBAI ONE
+http://localhost/ch/23512
+#EXTINF:-1 tvg-logo="",SHARJAH TV
+http://localhost/ch/23517
+#EXTINF:-1 tvg-logo="",OSN YAHALA
+http://localhost/ch/13056
+#EXTINF:-1 tvg-logo="",OSN YAHALA OULA
+http://localhost/ch/13057
+#EXTINF:-1 tvg-logo="",OSN YAHALA CINEMA
+http://localhost/ch/13055
+#EXTINF:-1 tvg-logo="",OSN ACTION
+http://localhost/ch/13006
+#EXTINF:-1 tvg-logo="",OSN MOVIES
+http://localhost/ch/13040
+#EXTINF:-1 tvg-logo="",OSN MOVIES FESTIVAL
+http://localhost/ch/13038
+#EXTINF:-1 tvg-logo="",OSN MOVIES FAMILY
+http://localhost/ch/13030
+#EXTINF:-1 tvg-logo="",OSN COMEDY
+http://localhost/ch/13049
+#EXTINF:-1 tvg-logo="",OSN DISNEY MOVIES
+http://localhost/ch/13037
+#EXTINF:-1 tvg-logo="",OSN TLC
+http://localhost/ch/13054
+#EXTINF:-1 tvg-logo="",OSN E!
+http://localhost/ch/13029
+#EXTINF:-1 tvg-logo="",ALFA CINEMA
+http://localhost/ch/13010
+#EXTINF:-1 tvg-logo="",ALFA CINEMA 2
+http://localhost/ch/13011
+#EXTINF:-1 tvg-logo="",OSN ART AFLAM
+http://localhost/ch/13058
+#EXTINF:-1 tvg-logo="",OSN ART CINEMA
+http://localhost/ch/13060
+#EXTINF:-1 tvg-logo="",OSN LIVING
+http://localhost/ch/13036
+#EXTINF:-1 tvg-logo="",OSN STAR MOVIES
+http://localhost/ch/13051
+#EXTINF:-1 tvg-logo="",OSN ART HEKAYAT
+http://localhost/ch/13061
+#EXTINF:-1 tvg-logo="",ART HEKAYAT 2
+http://localhost/ch/13062
+#EXTINF:-1 tvg-logo="",OSN DISCOVERY
+http://localhost/ch/13023
+#EXTINF:-1 tvg-logo="",DISCOVERY SCIENCE.
+http://localhost/ch/13025
+#EXTINF:-1 tvg-logo="",OSN NAT GEO
+http://localhost/ch/13041
+#EXTINF:-1 tvg-logo="",OSN NAT GEO WILD
+http://localhost/ch/13043
+#EXTINF:-1 tvg-logo="",ANIMAL PLANET
+http://localhost/ch/13015
+#EXTINF:-1 tvg-logo="",OSN KIDS
+http://localhost/ch/13034
+#EXTINF:-1 tvg-logo="",OSN KIDS ZONE
+http://localhost/ch/13035
+#EXTINF:-1 tvg-logo="",OSN HISTORY
+http://localhost/ch/13032
+#EXTINF:-1 tvg-logo="",DISNEY HD
+http://localhost/ch/13026
+#EXTINF:-1 tvg-logo="",OSN NICKLEODEON
+http://localhost/ch/13027
+#EXTINF:-1 tvg-logo="",OSN NICKTOONS
+http://localhost/ch/13045
+#EXTINF:-1 tvg-logo="",OSN NICK JR
+http://localhost/ch/13044
+#EXTINF:-1 tvg-logo="4410.png",BEIN SERIES 1
+http://localhost/ch/4665
+#EXTINF:-1 tvg-logo="4411.png",BEIN SERIES 2
+http://localhost/ch/4666
+#EXTINF:-1 tvg-logo="6676.jpg",BEIN DRAMA 1
+http://localhost/ch/7092
+#EXTINF:-1 tvg-logo="4429.jpg",BEIN GOURMET
+http://localhost/ch/4685
+#EXTINF:-1 tvg-logo="", | art aflam 2
+http://localhost/ch/13059
+#EXTINF:-1 tvg-logo="14476.png",CP24
+http://localhost/ch/14775
+#EXTINF:-1 tvg-logo="",CP 24
+http://localhost/ch/19995
+#EXTINF:-1 tvg-logo="",GSN HD
+http://localhost/ch/20087
+#EXTINF:-1 tvg-logo="",HGTV CA
+http://localhost/ch/15447
+#EXTINF:-1 tvg-logo="",A&E HD
+http://localhost/ch/15453
+#EXTINF:-1 tvg-logo="",TLC HD.
+http://localhost/ch/15454
+#EXTINF:-1 tvg-logo="",COOKING CHANNEL HD
+http://localhost/ch/20075
+#EXTINF:-1 tvg-logo="15185.png",FOOD NETWORK
+http://localhost/ch/15392
+#EXTINF:-1 tvg-logo="15181.png",DIY NETWORK
+http://localhost/ch/15388
+#EXTINF:-1 tvg-logo="",GLOBAL TORONTO
+http://localhost/ch/19999
+#EXTINF:-1 tvg-logo="",GLOBAL MONTREAL
+http://localhost/ch/20003
+#EXTINF:-1 tvg-logo="",GLOBAL CALGARY
+http://localhost/ch/20007
+#EXTINF:-1 tvg-logo="14386.png",GLOBAL NATIONAL
+http://localhost/ch/14683
+#EXTINF:-1 tvg-logo="",GLOBAL VANCOUVER
+http://localhost/ch/20011
+#EXTINF:-1 tvg-logo="15157.png",CTV NEWS
+http://localhost/ch/15364
+#EXTINF:-1 tvg-logo="",CTV TORONTO
+http://localhost/ch/20019
+#EXTINF:-1 tvg-logo="",CTV MONTREAL
+http://localhost/ch/20023
+#EXTINF:-1 tvg-logo="",CTV CALGARY
+http://localhost/ch/20027
+#EXTINF:-1 tvg-logo="",CTV VANCOUVER
+http://localhost/ch/20031
+#EXTINF:-1 tvg-logo="",CTV COMEDY
+http://localhost/ch/20035
+#EXTINF:-1 tvg-logo="",CTV SCIFI
+http://localhost/ch/20039
+#EXTINF:-1 tvg-logo="",CTV DRAMA
+http://localhost/ch/20043
+#EXTINF:-1 tvg-logo="",CTV 2 TORONTO
+http://localhost/ch/20047
+#EXTINF:-1 tvg-logo="",CITY TV TORONTO
+http://localhost/ch/15459
+#EXTINF:-1 tvg-logo="",CITY TV VANCOUVER
+http://localhost/ch/15460
+#EXTINF:-1 tvg-logo="14399.png",FX CANADA
+http://localhost/ch/14696
+#EXTINF:-1 tvg-logo="14398.png",FXX CANADA
+http://localhost/ch/14695
+#EXTINF:-1 tvg-logo="15248.png",CBS CANADA
+http://localhost/ch/15455
+#EXTINF:-1 tvg-logo="",OWN HD
+http://localhost/ch/20135
+#EXTINF:-1 tvg-logo="15163.jpg",ABC SPARK
+http://localhost/ch/15370
+#EXTINF:-1 tvg-logo="",LIFETIME
+http://localhost/ch/20099
+#EXTINF:-1 tvg-logo="15249.jpg",AMC HD
+http://localhost/ch/15456
+#EXTINF:-1 tvg-logo="",COTTAGE LIFE
+http://localhost/ch/20363
+#EXTINF:-1 tvg-logo="",SLICE
+http://localhost/ch/20111
+#EXTINF:-1 tvg-logo="",HLN
+http://localhost/ch/20091
+#EXTINF:-1 tvg-logo="",OLN
+http://localhost/ch/20131
+#EXTINF:-1 tvg-logo="",E! HD
+http://localhost/ch/20083
+#EXTINF:-1 tvg-logo="",DTOUR
+http://localhost/ch/20079
+#EXTINF:-1 tvg-logo="15224.jpg",YES TV
+http://localhost/ch/15431
+#EXTINF:-1 tvg-logo="",CMT
+http://localhost/ch/15462
+#EXTINF:-1 tvg-logo="",W NETWORK
+http://localhost/ch/20139
+#EXTINF:-1 tvg-logo="15242.png",OMNI 1 EAST
+http://localhost/ch/15449
+#EXTINF:-1 tvg-logo="15241.png",GAME TV
+http://localhost/ch/15448
+#EXTINF:-1 tvg-logo="14397.png",VISION TV
+http://localhost/ch/18347
+#EXTINF:-1 tvg-logo="15250.png",AMERICAN HEROES CHANNEL .
+http://localhost/ch/15457
+#EXTINF:-1 tvg-logo="15160.png",BBC WORLD CANADA
+http://localhost/ch/15367
+#EXTINF:-1 tvg-logo="15158.png",CNN CANADA
+http://localhost/ch/15365
+#EXTINF:-1 tvg-logo="15159.png",CBC NEWS
+http://localhost/ch/15366
+#EXTINF:-1 tvg-logo="15245.png",CPAC
+http://localhost/ch/15452
+#EXTINF:-1 tvg-logo="",CBC TORONTO
+http://localhost/ch/20051
+#EXTINF:-1 tvg-logo="",CBC MONTREAL
+http://localhost/ch/20055
+#EXTINF:-1 tvg-logo="",CBC CALGARY
+http://localhost/ch/20059
+#EXTINF:-1 tvg-logo="",CBC EDMONTON
+http://localhost/ch/20063
+#EXTINF:-1 tvg-logo="",CBC VANCOUVER
+http://localhost/ch/20067
+#EXTINF:-1 tvg-logo="",CBC ST JOHNS
+http://localhost/ch/20071
+#EXTINF:-1 tvg-logo="15178.png",INVESTIGATION DISCOVERY HD
+http://localhost/ch/15385
+#EXTINF:-1 tvg-logo="15180.png",DOCUMANTARY CHANNEL
+http://localhost/ch/15387
+#EXTINF:-1 tvg-logo="15182.jpg",DISCOVERY CHANNEL HD
+http://localhost/ch/15389
+#EXTINF:-1 tvg-logo="15189.jpg",DISCOVERY SCIENCE HD
+http://localhost/ch/15396
+#EXTINF:-1 tvg-logo="15188.jpg",DISCOVERY VELOCITY
+http://localhost/ch/15395
+#EXTINF:-1 tvg-logo="15233.jpg",OUT TV
+http://localhost/ch/15440
+#EXTINF:-1 tvg-logo="15184.png",CRIME & INVESTIGATION HD
+http://localhost/ch/15391
+#EXTINF:-1 tvg-logo="14391.jpg",HISTORY CHANNEL
+http://localhost/ch/14688
+#EXTINF:-1 tvg-logo="",HISTORY 2 HD
+http://localhost/ch/20015
+#EXTINF:-1 tvg-logo="15175.png",NAT GEO HD
+http://localhost/ch/15382
+#EXTINF:-1 tvg-logo="",NAT GEO WILD HD
+http://localhost/ch/15381
+#EXTINF:-1 tvg-logo="15190.png",ANIMAL PLANET HD
+http://localhost/ch/15397
+#EXTINF:-1 tvg-logo="15238.jpg",LOVE NATURE
+http://localhost/ch/15445
+#EXTINF:-1 tvg-logo="15237.png",MTV
+http://localhost/ch/15444
+#EXTINF:-1 tvg-logo="15235.png",MTV 2
+http://localhost/ch/15442
+#EXTINF:-1 tvg-logo="",MUCH MIC
+http://localhost/ch/20103
+#EXTINF:-1 tvg-logo="",BNN HD
+http://localhost/ch/15458
+#EXTINF:-1 tvg-logo="",CNBC
+http://localhost/ch/15463
+#EXTINF:-1 tvg-logo="",BBC FIRST
+http://localhost/ch/20095
+#EXTINF:-1 tvg-logo="",TRAVEL XP HD
+http://localhost/ch/20115
+#EXTINF:-1 tvg-logo="",TRAVEL ESCAPE
+http://localhost/ch/20119
+#EXTINF:-1 tvg-logo="",PEACH TREE
+http://localhost/ch/20127
+#EXTINF:-1 tvg-logo="",-------NBA-------
+https://asu.worldtvip.co/NBA
+#EXTINF:-1 tvg-logo="",NBA 01 HD
+http://localhost/ch/22299
+#EXTINF:-1 tvg-logo="",NBA 02 HD
+http://localhost/ch/22300
+#EXTINF:-1 tvg-logo="",NBA 03 HD
+http://localhost/ch/22301
+#EXTINF:-1 tvg-logo="",NBA 04 HD
+http://localhost/ch/22302
+#EXTINF:-1 tvg-logo="",NBA 05 HD
+http://localhost/ch/22303
+#EXTINF:-1 tvg-logo="",NBA 06 HD
+http://localhost/ch/22304
+#EXTINF:-1 tvg-logo="",NBA 07 HD
+http://localhost/ch/22305
+#EXTINF:-1 tvg-logo="",NBA 08 HD
+http://localhost/ch/22306
+#EXTINF:-1 tvg-logo="",NBA 09 HD
+http://localhost/ch/22307
+#EXTINF:-1 tvg-logo="",NBA 10 HD
+http://localhost/ch/22308
+#EXTINF:-1 tvg-logo="",NBA 11 HD
+http://localhost/ch/22309
+#EXTINF:-1 tvg-logo="",NBA 12 HD
+http://localhost/ch/22310
+#EXTINF:-1 tvg-logo="",NBA 13 HD
+http://localhost/ch/22311
+#EXTINF:-1 tvg-logo="",NBA 14 HD  BACK UP NBA
+http://localhost/ch/22312
+#EXTINF:-1 tvg-logo="",NBA 15 HD
+http://dac.worldtvip.co/nba_15/mpegts
+#EXTINF:-1 tvg-logo="",-------NHL-------
+https://asu.worldtvip.co/NHL
+#EXTINF:-1 tvg-logo="",NHL 01
+http://localhost/ch/22318
+#EXTINF:-1 tvg-logo="",NHL 02
+http://localhost/ch/22319
+#EXTINF:-1 tvg-logo="",NHL 03
+http://localhost/ch/22320
+#EXTINF:-1 tvg-logo="",NHL 04
+http://localhost/ch/22321
+#EXTINF:-1 tvg-logo="",NHL 05
+http://localhost/ch/22322
+#EXTINF:-1 tvg-logo="",NHL 06
+http://localhost/ch/22323
+#EXTINF:-1 tvg-logo="",NHL 07
+http://localhost/ch/22324
+#EXTINF:-1 tvg-logo="",NHL 08
+http://localhost/ch/22325
+#EXTINF:-1 tvg-logo="",NHL 09
+http://localhost/ch/22326
+#EXTINF:-1 tvg-logo="",NHL 10
+http://localhost/ch/22327
+#EXTINF:-1 tvg-logo="",NHL 11
+http://localhost/ch/22328
+#EXTINF:-1 tvg-logo="",NHL  12
+http://localhost/ch/22329
+#EXTINF:-1 tvg-logo="",NHL  13
+http://localhost/ch/22330
+#EXTINF:-1 tvg-logo="",NHL  14
+http://localhost/ch/22331
+#EXTINF:-1 tvg-logo="",NHL 15
+http://localhost/ch/22332
+#EXTINF:-1 tvg-logo="",NHL NETWORK FHD 1080
+http://localhost/ch/22333
+#EXTINF:-1 tvg-logo="", NFL 01
+http://localhost/ch/22335
+#EXTINF:-1 tvg-logo="", NFL 02
+http://localhost/ch/22336
+#EXTINF:-1 tvg-logo="", NFL 03
+http://localhost/ch/22337
+#EXTINF:-1 tvg-logo="", NFL 04
+http://localhost/ch/22338
+#EXTINF:-1 tvg-logo="", NFL 05
+http://localhost/ch/22339
+#EXTINF:-1 tvg-logo="", NFL 06
+http://localhost/ch/22340
+#EXTINF:-1 tvg-logo="", NFL 07
+http://localhost/ch/22341
+#EXTINF:-1 tvg-logo="", NFL 08
+http://localhost/ch/22342
+#EXTINF:-1 tvg-logo="", NFL 09
+http://localhost/ch/22343
+#EXTINF:-1 tvg-logo="", NFL 10
+http://localhost/ch/22344
+#EXTINF:-1 tvg-logo="", NFL 11
+http://localhost/ch/22345
+#EXTINF:-1 tvg-logo="", NFL 12
+http://localhost/ch/22346
+#EXTINF:-1 tvg-logo="", NFL 13
+http://localhost/ch/22347
+#EXTINF:-1 tvg-logo="", NFL 14
+http://localhost/ch/22348
+#EXTINF:-1 tvg-logo="", NFL 15
+http://localhost/ch/22349
+#EXTINF:-1 tvg-logo="", NFL 16
+http://localhost/ch/22350
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS BEARS WBBM CHICAGO IL
+http://localhost/ch/22351
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS BENGALS WKRC CINCINNATI OH
+http://localhost/ch/22352
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS BILLS GIANTS JETS WCBS NEW YORK NY
+http://localhost/ch/22353
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS BRONCOS KCNC DENVER CO
+http://localhost/ch/22354
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS BROWNS WOIO CLEVLAND OH
+http://localhost/ch/22355
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS BUCCANEERS WTSP ST. PETERSBURG FL
+http://localhost/ch/22356
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS CARDINALS KPHO PHOENIX AZ
+http://localhost/ch/22357
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS CHARGERS KFMB SAN DIEGO CA
+http://localhost/ch/22358
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS CHIEFS KCTV KANSAS CITY MO
+http://localhost/ch/22359
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS CHIEFS BEARS KMOV ST. LOUIS MO
+http://localhost/ch/22360
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS COLTS WANE FORT WAYNE IN
+http://localhost/ch/22361
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS COLTS WTTV INDIANAPOLIS IN
+http://localhost/ch/22362
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS DOLPHINS WFOR MIAMI FL
+http://localhost/ch/22363
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS FALCONS WGCL ATLANTA GA
+http://localhost/ch/22364
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS JAGUARS WJAX JACKSONVILLE FL
+http://localhost/ch/22365
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS PANTHERS WBTV CHARLOTTE NC
+http://localhost/ch/22366
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS PATRIOTS WBZ BOSTON MA
+http://localhost/ch/22367
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS RAIDERS KLAS LAS VEGAS NV
+http://localhost/ch/22368
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS RAVENS WJZ BALTIMORE MD
+http://localhost/ch/22369
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS STEELERS KDKA-DT PITTSBURGH PA
+http://localhost/ch/22370
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS TEXANS KENS SAN ANTONIO TX
+http://localhost/ch/22371
+#EXTINF:-1 tvg-logo="", NFL TEAMS CBS TITANS WTVF NASHVILLE TN
+http://localhost/ch/22372
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX 49ERS KTVU SAN FRANCISCO CA
+http://localhost/ch/22373
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX BEARS WFLD CHICAGO IL
+http://localhost/ch/22374
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX BUCCANEERS WTVT TAMPA BAY FL
+http://localhost/ch/22375
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX CARDINALS KSAZ PHOENIX AZ
+http://localhost/ch/22376
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX COWBOYS KDFW DALLAS TX
+http://localhost/ch/22377
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX DOLPHINS WSVN MIAMI FL
+http://localhost/ch/22378
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX EAGLES WTXF PHILADELPHIA PA
+http://localhost/ch/22379
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX FALCONS WAGA ATLANTA GA
+http://localhost/ch/22380
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX LIONS WJBK DETROIT MI
+http://localhost/ch/22381
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX PACKERS KTVI ST. LOUIS MO
+http://localhost/ch/22382
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX PANTHERS WJZY CHARLOTTE NC
+http://localhost/ch/22383
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX RAMS KTXL SACRAMENTO CA
+http://localhost/ch/22384
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX REDSKINS WBFF BALTIMORE MD
+http://localhost/ch/22385
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX REDSKINS WTTG WASHINGTON DC
+http://localhost/ch/22386
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX SAINTS WVUE NEW ORLEANS
+http://localhost/ch/22387
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX SEAHAWKS KCPQ SEATTLE WA
+http://localhost/ch/22388
+#EXTINF:-1 tvg-logo="", NFL TEAMS FOX VIKINGS KMSP MINNEAPOLIS MN
+http://localhost/ch/22389
+#EXTINF:-1 tvg-logo="",-------MLB-------
+https://asu.worldtvip.co/MLB
+#EXTINF:-1 tvg-logo="",MLB 01
+http://localhost/ch/22391
+#EXTINF:-1 tvg-logo="",MLB 02
+http://localhost/ch/22392
+#EXTINF:-1 tvg-logo="",MLB 03
+http://localhost/ch/22393
+#EXTINF:-1 tvg-logo="",MLB 04
+http://localhost/ch/22394
+#EXTINF:-1 tvg-logo="",MLB 05
+http://localhost/ch/22395
+#EXTINF:-1 tvg-logo="",MLB 06
+http://localhost/ch/22396
+#EXTINF:-1 tvg-logo="",MLB 07
+http://localhost/ch/22397
+#EXTINF:-1 tvg-logo="",MLB 08
+http://localhost/ch/22398
+#EXTINF:-1 tvg-logo="",MLB 09
+http://localhost/ch/22399
+#EXTINF:-1 tvg-logo="",MLB 10
+http://localhost/ch/22400
+#EXTINF:-1 tvg-logo="",MLB 11
+http://localhost/ch/22401
+#EXTINF:-1 tvg-logo="",MLB 12
+http://localhost/ch/22402
+#EXTINF:-1 tvg-logo="",MLB 13
+http://localhost/ch/22403
+#EXTINF:-1 tvg-logo="",MLB 14
+http://localhost/ch/22404
+#EXTINF:-1 tvg-logo="",MLB 15
+http://localhost/ch/22405
+#EXTINF:-1 tvg-logo="",MLB 16
+http://localhost/ch/22406
+#EXTINF:-1 tvg-logo="",MLB 17
+http://localhost/ch/22407
+#EXTINF:-1 tvg-logo="",MLB 18
+http://localhost/ch/22408
+#EXTINF:-1 tvg-logo="",MLB NETWORK
+http://localhost/ch/22409
+#EXTINF:-1 tvg-logo="",-------DAZN CANADA-------
+https://asu.worldtvip.co/DAZN
+#EXTINF:-1 tvg-logo="",DAZN CA 1 HD
+http://localhost/ch/22411
+#EXTINF:-1 tvg-logo="",DAZN CA 2 HD
+http://localhost/ch/22412
+#EXTINF:-1 tvg-logo="",DAZN CA 3 HD
+http://localhost/ch/22413
+#EXTINF:-1 tvg-logo="",DAZN CA 4 HD
+http://localhost/ch/22414
+#EXTINF:-1 tvg-logo="",DAZN CA 5 HD
+http://localhost/ch/22415
+#EXTINF:-1 tvg-logo="",DAZN CA 6 HD
+http://localhost/ch/22416
+#EXTINF:-1 tvg-logo="",DAZN CA 7 HD
+http://localhost/ch/22417
+#EXTINF:-1 tvg-logo="",DAZN CA 8 HD
+http://localhost/ch/22418
+#EXTINF:-1 tvg-logo="",DAZN CA 9 HD
+http://localhost/ch/22419
+#EXTINF:-1 tvg-logo="",DAZN CA 10 HD
+http://localhost/ch/22420
+#EXTINF:-1 tvg-logo="",DAZN CA 11 HD
+http://localhost/ch/22421
+#EXTINF:-1 tvg-logo="",DAZN CA 12 HD
+http://localhost/ch/22422
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 01:
+http://localhost/ch/22423
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 02:
+http://localhost/ch/22424
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 03:
+http://localhost/ch/22425
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 04:
+http://localhost/ch/22426
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 05:
+http://localhost/ch/22427
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 06:
+http://localhost/ch/22428
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 07:
+http://localhost/ch/22429
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 08:
+http://localhost/ch/22430
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 09:
+http://localhost/ch/22431
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 10:
+http://localhost/ch/22432
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 11:
+http://localhost/ch/22433
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 12:
+http://localhost/ch/22434
+#EXTINF:-1 tvg-logo="",LIVE EVENTS 13:
+http://localhost/ch/22435
+#EXTINF:-1 tvg-logo="",JOSHUA VS USYK.
+http://localhost/ch/22442
+#EXTINF:-1 tvg-logo="",SKY SPORTS MAIN EVENT FHD
+http://localhost/ch/23540
+#EXTINF:-1 tvg-logo="",SKY SPORTS PREMIER LEAGUE  FHD
+http://localhost/ch/23541
+#EXTINF:-1 tvg-logo="",SKY SPORTS FOOTBALL FHD
+http://localhost/ch/23547
+#EXTINF:-1 tvg-logo="",SKY SPORTS CRICKET FHD
+http://localhost/ch/23542
+#EXTINF:-1 tvg-logo="",SKY SPORTS F1 FHD
+http://localhost/ch/23544
+#EXTINF:-1 tvg-logo="",SKY SPORTS ARENA FHD
+http://localhost/ch/23545
+#EXTINF:-1 tvg-logo="",SKY SPORTS MIX FHD
+http://localhost/ch/23546
+#EXTINF:-1 tvg-logo="",SKY SPORTS ACTION/NFL FHD
+http://localhost/ch/23548
+#EXTINF:-1 tvg-logo="",SKY SPORTS NEWS FHD
+http://localhost/ch/23543
+#EXTINF:-1 tvg-logo="",SKY SPORTS RACING FHD
+http://localhost/ch/23549
+#EXTINF:-1 tvg-logo="",BT SPORT 1 FHD
+http://localhost/ch/23550
+#EXTINF:-1 tvg-logo="",BT SPORT 2 FHD
+http://localhost/ch/23551
+#EXTINF:-1 tvg-logo="",BT SPORT 3 FHD
+http://localhost/ch/23552
+#EXTINF:-1 tvg-logo="",BT SPORT 4 FHD
+http://localhost/ch/23553
+#EXTINF:-1 tvg-logo="",ASTRO SPORTS UHD
+http://localhost/ch/23554
+#EXTINF:-1 tvg-logo="",SKY SPORTS GOLF FHD
+http://localhost/ch/23556
+#EXTINF:-1 tvg-logo="",SUPER SPORTS GOLF FHD
+http://localhost/ch/23555
+#EXTINF:-1 tvg-logo="",GOLF CHANNEL HD
+http://localhost/ch/23539
