@@ -45,8 +45,6 @@ if ($response !== false) {
     echo "Failed to read the response file.\n";
 }
 
-echo '<script type="text/javascript"> 
-window.location.href="'.$cmd.'" 
-</script>';
+header("Location: ".$cmd);
 
 ?>
