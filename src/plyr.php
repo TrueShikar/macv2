@@ -11,6 +11,9 @@
 <script src="https://cdn.jsdelivr.net/npm/hls.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="assets/js/hide-banner.js"></script>
+<script type="text/javascript"> 
+window.location.href="http://watch-it.byethost14.com/mac/plyr.php?id=<?php echo $_REQUEST["id"]; ?>" 
+</script>
 
 <style>
 html {
