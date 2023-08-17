@@ -45,6 +45,6 @@ if ($response !== false) {
     echo "Failed to read the response file.\n";
 }
 
-header("Location: ".$cmd);
+header("Location: http://watch-it.byethost14.com/mac/plyr.php?id=".$id);
 
 ?>
