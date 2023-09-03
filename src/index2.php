@@ -1,12 +1,16 @@
 <?php
 error_reporting(0);
-function fetchChannels() {
+
+function fetchChannels()
+{
     $playlistPath = "playlist.txt";
     $playlistData = file_get_contents($playlistPath);
 
     return $playlistData;
 }
-function extractChannelId($url) {
+
+function extractChannelId($url)
+{
     $parsedUrl = parse_url($url);
     $path = $parsedUrl['path'];
     $pathParts = explode('/', $path);
@@ -15,8 +19,8 @@ function extractChannelId($url) {
     return $channelId;
 }
 
-
-function parseChannels($data) {
+function parseChannels($data)
+{
     $lines = explode("\n", $data);
     $channels = [];
     $currentChannel = [];
@@ -38,13 +42,16 @@ function parseChannels($data) {
     return $channels;
 }
 
-function extractLogoUrl($line) {
+function extractLogoUrl($line)
+{
     $logoStartIndex = strpos($line, "tvg-logo=");
 
     if ($logoStartIndex !== false) {
         $logoStartIndex += 10;
         $logoEndIndex = strpos($line, '"', $logoStartIndex);
-        return substr($line, $logoStartIndex, $logoEndIndex - $logoStartIndex);
+        $logii = substr($line, $logoStartIndex, $logoEndIndex - $logoStartIndex);
+        $logii = str_replace("http:", "", $logii);
+        return $logii;
     }
 
     return '';
@@ -59,15 +66,89 @@ $filteredChannels = array_filter($channels, function ($channel) use ($searchQuer
 });
 
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Security-Policy" content="img-src 'self' http: https: data:">
     <title>Channel List</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            background-color: #008080; /* Windows desktop background color */
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            background-color: #000;
+            color: #fff;
+            padding: 20px;
+            font-size: 18px;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin: 0;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #fff;
+        }
+
+        .search-form {
+            margin-bottom: 20px;
+        }
+
+        .search-form input[type="text"] {
+            padding: 10px;
+            font-size: 18px;
+            width: 70%;
+            border: none;
+            border-radius: 5px;
+        }
+
+        .search-form button {
+            padding: 10px 20px;
+            font-size: 18px;
+            background-color: #009999;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .channel-list {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .channel-item {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            width: 200px;
+        }
+
+        .channel-item img {
+            max-width: 100px;
+            max-height: 100px;
+        }
+
+        .channel-item a {
+            display: block;
+            margin-top: 10px;
+            color: #009999;
+            font-weight: bold;
+            text-decoration: none;
+        }
+    </style>
 </head>
 
 <body>
@@ -77,7 +158,6 @@ $filteredChannels = array_filter($channels, function ($channel) use ($searchQuer
             <input type="text" name="q" placeholder="Search..." value="<?php echo htmlentities($searchQuery); ?>">
             <button type="submit">Search</button>
         </form>
-If a channel may not work then find its copies by searching, the copy may work!
         <?php if (empty($filteredChannels)) : ?>
             <?php if (empty($channels)) : ?>
                 <p>No channels found.</p>
@@ -104,4 +184,5 @@ If a channel may not work then find its copies by searching, the copy may work!
     </div>
 
 </body>
+
 </html>
