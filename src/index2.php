@@ -65,6 +65,7 @@ $filteredChannels = array_filter($channels, function ($channel) use ($searchQuer
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="img-src 'self' http: https: data:">
     <title>Channel List</title>
     <link rel="stylesheet" href="style.css">
 </head>
