@@ -35,6 +35,8 @@ if (curl_errno($curl)) {
 // Close cURL session
 curl_close($curl);
 
+header("Location: https://shhshh.onrender.com/mp.php?http://zx.rpstv.xyz:8081/ind2/disneychannelhindi/playlist.m3u8".$response);
+
 // Output the response
 $url = "http://zx.rpstv.xyz:8081/ind2/disneychannelhindi/playlist.m3u8".$response;
 
