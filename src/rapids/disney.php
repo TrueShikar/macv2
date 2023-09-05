@@ -36,5 +36,28 @@ if (curl_errno($curl)) {
 curl_close($curl);
 
 // Output the response
-header("Location: http://zx.rpstv.xyz:8081/ind2/disneychannelhindi/playlist.m3u8".$response)
+$url = "http://zx.rpstv.xyz:8081/ind2/disneychannelhindi/playlist.m3u8".$response;
+
+//phase II
+
+$response = file_get_contents($url);
+
+
+// Find the position of "chunks.m3u8"
+$startPos = strpos($response, 'chunks.m3u8');
+
+if ($startPos !== false) {
+    // Extract everything from "chunks.m3u8" until the end of the string
+    $desiredPortion = substr($response, $startPos);
+}
+$url = "http://zx.rpstv.xyz:8081/ind2/disneychannelhindi/".$desiredPortion;
+$response= file_get_contents($url);
+
+//phase III
+$elink = "http://zx.rpstv.xyz:8081/ind2/disneychannelhindi/";
+// Use preg_replace to replace the pattern
+$f = preg_replace("/(?<=ts).*/", "", $response);
+$g = preg_replace("/.*ts/", "ts.php?ts=".$elink."$0", $f);
+
+echo $g;
 ?>
