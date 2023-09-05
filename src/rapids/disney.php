@@ -56,8 +56,7 @@ $response= file_get_contents($url);
 //phase III
 $elink = "http://zx.rpstv.xyz:8081/ind2/disneychannelhindi/";
 // Use preg_replace to replace the pattern
-$f = preg_replace("/(?<=ts).*/", "", $response);
-$g = preg_replace("/.*ts/", "ts.php?ts=".$elink."$0", $f);
+$g = preg_replace("/.*ts/", "ts.php?ts=".$elink."$0", $response);
 
 echo $g;
 ?>
