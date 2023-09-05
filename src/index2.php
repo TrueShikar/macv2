@@ -169,7 +169,7 @@ $filteredChannels = array_filter($channels, function ($channel) use ($searchQuer
 </head>
 <body>
     <div class="container">
-        <h1>2000+ Channels</h1>
+        <h1>11,243 Channels</h1>
         <form class="search-form" action="" method="GET">
             <input type="text" name="q" placeholder="Search..." value="<?php echo htmlentities($searchQuery); ?>">
             <button type="submit">Search</button>
