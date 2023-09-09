@@ -65,7 +65,7 @@ $f = preg_replace("/(?<=ts).*/", "", file_get_contents($locationHeader));
 $g = preg_replace("/.*ts/", "ts.php?ts=".$elink."$0", $f);
 
 
-
+header("content-type: application/vnd.apple.mpegurl");
 echo $g;
 
 
