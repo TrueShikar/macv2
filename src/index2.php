@@ -182,7 +182,7 @@ $filteredChannels = array_filter($channels, function ($channel) use ($searchQuer
                     <?php foreach ($channels as $channel) : ?>
                         <li class="channel-item">
                             <a href="plyr.php?id=<?php echo htmlentities($channel['url']); ?>&p=<?php echo htmlentities($channel['logo']); ?>">
-                            <img src="mp.php?<?php echo htmlentities($channel['logo']); ?>" alt="Logo">
+                            <img src="<?php echo htmlentities($channel['logo']); ?>" alt="Logo">
                             <?php echo htmlentities($channel['name']); ?></a>
                         </li>
                     <?php endforeach; ?>
