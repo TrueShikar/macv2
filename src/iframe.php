@@ -7,7 +7,7 @@
 <html lang="en">
 
 <head>
-    <title><?php echo $_GET['n']; ?></title>
+    <title></title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="description" content="ENJOY FREE LIVE TV">
     <meta name="keywords" content="LIVETV, SPORTS, MOVIES, MUSIC">
@@ -22,12 +22,8 @@
 
 </head>
 
-<body bgcolor="white">
+<body>
     <style>
-        img {
-            width: 100%;
-            height: auto;
-        }
         .jw-svg-icon-pause {
             background-image: url("https://raw.githubusercontent.com/mitthu786/TS-JioTV/main/app/assets/img/jwplay/pause.svg");
         }
@@ -88,7 +84,7 @@
         }
 
         html {
-            background: #fff;
+            background: #000;
         }
 
         [class~=jw-icon-playback]:hover [class~=jw-svg-icon-pause] {
@@ -319,7 +315,7 @@
         }
 
         [class~=loading] {
-            background: #fff;
+            background: #000;
         }
 
         [class~=loading] {
@@ -351,7 +347,7 @@
         }
 
         [class~=loading-text] span {
-            color: #fff;
+            color: #ffffff;
         }
 
         .loading-text {
@@ -489,44 +485,31 @@
         }
 
         #videoContainer {
-            height: 240px !important;
-        }
-        .container {
-            position: relative;
-            overflow: hidden;
-            width: 100%;
-            padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
-        }
-
-        /* Then style the iframe to fit in the container div with full height and width */
-        .responsive-iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            bottom: 0;
-            right: 0;
-            width: 100%;
-            height: 100%;
+            height: 100% !important;
         }
     </style>
-<img src = "https://i.ibb.co/LknbmZs/image.png"> </img>
-
-
-
-
-<div class="container">
-  <iframe class="responsive-iframe" src="iframe.php?id=<?php echo $_GET['id']; ?>&p=<?php echo $_GET['p']; ?>&n=<?php echo $_GET['n']; ?>"></iframe>
-</div>
-
-
-
-
-<p  ><h2 style="font-family:Bradley Hand, cursive"><center> <?php echo $_GET['n']; ?> </center></h2>
-<br>
-Iframe Source: <p><strong></strong> <span border = "1" class="textarea" role="textbox" contenteditable>http://watch-it.live/playlist/iframe.php?id=<?php echo $_GET['id']; ?>&n=<?php echo $_GET['n']; ?></span></p>
-<br><br>
-<h2 style="font-family:Bradley Hand, cursive"> Script for sell <a href = 'https://t.me/ipl_stream_support_bot'>@ContactUs</a> </h2>
-</h3></p>
+    <video id="myElement"></video>
+    <script type="text/javascript">
+        jwplayer.key = 'Khpp2dHxlBJHC8MCmLnBuV2jK/DwDnJMniwF6EO9HC/riJ712ZmbHg==';
+    </script>
+    <script type="text/JavaScript">
+        jwplayer("myElement").setup({
+            title: '<?php echo $_GET['n']; ?>',
+            description: "",
+            image: '<?php echo $_GET['p']; ?>',
+            aspectratio: '16:9',
+            width: '100%',
+            autostart: false,
+            file: "create.php?id=<?php echo $_GET['id']; ?>",
+            type: "m3u8",
+            abouttext: 'Contact Us',
+            aboutlink: 'https://t.me/ipl_stream_support_bot',
+            captions: {color: '#ffb800',fontSize: 30,backgroundOpacity: 0},
+            sharing: {
+                sites: ['facebook','twitter']
+            }
+        })
+    </script>
 </body>
 
 </html>
