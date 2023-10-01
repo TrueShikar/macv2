@@ -180,8 +180,8 @@ $filteredChannels = array_filter($channels, function ($channel) use ($searchQuer
                 <ul class="channel-list">
                     <?php foreach ($channels as $channel) : ?>
                         <li class="channel-item">
-                            <img src="<?php echo htmlentities($channel['logo']); ?>" alt="Logo">
-                            <a href="plyr.php?id=<?php echo htmlentities($channel['url']); ?>&p=<?php echo htmlentities($channel['logo']); ?>&n=<?php echo htmlentities($channel['name']); ?>"><?php echo htmlentities($channel['name']); ?></a>
+                            <img src="mp.php?<?php echo htmlentities($channel['logo']); ?>" alt="Logo">
+                            <a href="plyr.php?id=<?php echo htmlentities($channel['url']); ?>&p=mp.php?<?php echo htmlentities($channel['logo']); ?>&n=<?php echo htmlentities($channel['name']); ?>"><?php echo htmlentities($channel['name']); ?></a>
                         </li>
                     <?php endforeach; ?>
                 </ul>
@@ -190,8 +190,8 @@ $filteredChannels = array_filter($channels, function ($channel) use ($searchQuer
             <ul class="channel-list">
                 <?php foreach ($filteredChannels as $channel) : ?>
                     <li class="channel-item">
-                        <img src="<?php echo htmlentities($channel['logo']); ?>" alt="Logo">
-                        <a href="plyr.php?id=<?php echo htmlentities($channel['url']); ?>&p=<?php echo htmlentities($channel['logo']); ?>&n=<?php echo htmlentities($channel['name']); ?>"><?php echo htmlentities($channel['name']); ?></a>
+                        <img src="mp.php?<?php echo htmlentities($channel['logo']); ?>" alt="Logo">
+                        <a href="plyr.php?id=<?php echo htmlentities($channel['url']); ?>&p=mp.php?<?php echo htmlentities($channel['logo']); ?>&n=<?php echo htmlentities($channel['name']); ?>"><?php echo htmlentities($channel['name']); ?></a>
                     </li>
                 <?php endforeach; ?>
             </ul>
